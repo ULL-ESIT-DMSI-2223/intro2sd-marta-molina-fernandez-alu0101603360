@@ -1,7 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://mmistakes.github.io/intro2sd-template/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mmistakes.github.io/intro2sd-template/" rel="alternate" type="text/html" /><updated>2022-10-17T06:52:15-04:00</updated><id>https://mmistakes.github.io/intro2sd-template/feed.xml</id><title type="html">Introducción al Desarrollo de Sistemas</title><subtitle>Página web para la prácticas de DMSI en el grado de informática.</subtitle><author><name>Marta Molina</name></author><entry><title type="html">Post: Future Date</title><link href="https://mmistakes.github.io/intro2sd-template/post/post-future-date/" rel="alternate" type="text/html" title="Post: Future Date" /><published>9999-12-31T00:00:00-05:00</published><updated>9999-12-31T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-template/post/post-future-date</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/post/post-future-date/">&lt;p&gt;This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--future&lt;/code&gt; flag it should appear.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post" /><summary type="html">This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.</summary></entry><entry><title type="html">Informe</title><link href="https://mmistakes.github.io/intro2sd-template/post%20formats/informe/" rel="alternate" type="text/html" title="Informe" /><published>2022-10-01T00:00:00-04:00</published><updated>2022-10-01T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-template/post%20formats/informe</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/post%20formats/informe/">&lt;p&gt;Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/" rel="alternate" type="text/html" /><updated>2022-10-19T07:09:30-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml</id><title type="html">Introducción al Desarrollo de Sistemas</title><subtitle>Página web para la prácticas de DMSI en el grado de informática.</subtitle><author><name>Marta Molina</name></author><entry><title type="html">Post: Future Date</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/" rel="alternate" type="text/html" title="Post: Future Date" /><published>9999-12-31T00:00:00-05:00</published><updated>9999-12-31T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/">&lt;p&gt;This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--future&lt;/code&gt; flag it should appear.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post" /><summary type="html">This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.</summary></entry><entry><title type="html">Summary of Introduction to systems Development</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/intro2sd/" rel="alternate" type="text/html" title="Summary of Introduction to systems Development" /><published>2022-10-18T00:00:00-04:00</published><updated>2022-10-18T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/intro2sd</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/intro2sd/">&lt;h1 id=&quot;welcome&quot;&gt;Welcome&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Hello&lt;/strong&gt;,  first attempt.&lt;/p&gt;
+
+&lt;p&gt;Bye!&lt;/p&gt;</content><author><name>Marta Molina</name></author><summary type="html">Welcome</summary></entry><entry><title type="html">Informe</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/" rel="alternate" type="text/html" title="Informe" /><published>2022-10-01T00:00:00-04:00</published><updated>2022-10-01T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/">&lt;p&gt;Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.&lt;/p&gt;
+
+&lt;p&gt;El título de esta página es: Informe&lt;/p&gt;
+
+&lt;p&gt;Esta página tiene una variable tags que es una lista con estos valores:&lt;/p&gt;
+
+&lt;p&gt;Post Formatsreadabilitystandard&lt;/p&gt;
+
+&lt;p&gt;Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post Formats&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;readability&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;standard&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{“titulo”=&amp;gt;”The Walking Dead”, “temporada”=&amp;gt;1, “colores”=&amp;gt;[“rojo”, “verde”, “azul”]}&lt;/p&gt;
+
+&lt;h2 id=&quot;the-walking-dead&quot;&gt;The Walking Dead&lt;/h2&gt;
+
+&lt;p&gt;En la temporada  1 de The Walking Dead vimos muchos colores:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;rojo&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;azul&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;azul&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;verde&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;rojo&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;otras-cosas&quot;&gt;Otras cosas&lt;/h2&gt;
+
+&lt;p&gt;tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu&lt;/p&gt;
 
 &lt;p&gt;The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution.
-Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post Formats" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system. The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mmistakes.github.io/intro2sd-template/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00-05:00</published><updated>2018-02-19T08:06:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-template/jekyll/post-exclude-search</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
+Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post Formats" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system. El título de esta página es: Informe Esta página tiene una variable tags que es una lista con estos valores: Post Formatsreadabilitystandard Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto) Post Formats readability standard {“titulo”=&amp;gt;”The Walking Dead”, “temporada”=&amp;gt;1, “colores”=&amp;gt;[“rojo”, “verde”, “azul”]} The Walking Dead En la temporada 1 de The Walking Dead vimos muchos colores: rojo azul En la temporada 1 de The Walking Dead vimos muchos colores (lista inversa): azul verde rojo Otras cosas tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00-05:00</published><updated>2018-02-19T08:06:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
 
 &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -18,7 +75,7 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
     &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;excluded-file.html&lt;/span&gt;
     &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;_posts/2017-11-28-post-exclude-search.md&lt;/span&gt;
     &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;subdirectory/*.html&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><summary type="html">This post should not appear in the search index because it has the following YAML Front Matter:</summary></entry><entry><title type="html">Layout: Header Video</title><link href="https://mmistakes.github.io/intro2sd-template/layout/uncategorized/layout-header-video/" rel="alternate" type="text/html" title="Layout: Header Video" /><published>2017-01-23T00:00:00-05:00</published><updated>2017-01-23T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-template/layout/uncategorized/layout-header-video</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/layout/uncategorized/layout-header-video/">&lt;p&gt;This post should display a &lt;strong&gt;header with a responsive video&lt;/strong&gt;, if the theme supports it.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><summary type="html">This post should not appear in the search index because it has the following YAML Front Matter:</summary></entry><entry><title type="html">Layout: Header Video</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/layout/uncategorized/layout-header-video/" rel="alternate" type="text/html" title="Layout: Header Video" /><published>2017-01-23T00:00:00-05:00</published><updated>2017-01-23T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/layout/uncategorized/layout-header-video</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/layout/uncategorized/layout-header-video/">&lt;p&gt;This post should display a &lt;strong&gt;header with a responsive video&lt;/strong&gt;, if the theme supports it.&lt;/p&gt;
 
 &lt;h2 id=&quot;settings&quot;&gt;Settings&lt;/h2&gt;
 
@@ -84,7 +141,7 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
   &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
     &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;212731897&lt;/span&gt;
     &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;vimeo&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="Layout" /><category term="Uncategorized" /><category term="video" /><category term="layout" /><summary type="html">This post should display a header with a responsive video, if the theme supports it.</summary></entry><entry><title type="html">Gemified Theme – Beta Release</title><link href="https://mmistakes.github.io/intro2sd-template/jekyll/gemified-theme-beta/" rel="alternate" type="text/html" title="Gemified Theme – Beta Release" /><published>2016-10-06T00:00:00-04:00</published><updated>2018-03-20T16:01:04-04:00</updated><id>https://mmistakes.github.io/intro2sd-template/jekyll/gemified-theme-beta</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/jekyll/gemified-theme-beta/">&lt;p&gt;Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="Layout" /><category term="Uncategorized" /><category term="video" /><category term="layout" /><summary type="html">This post should display a header with a responsive video, if the theme supports it.</summary></entry><entry><title type="html">Gemified Theme – Beta Release</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/gemified-theme-beta/" rel="alternate" type="text/html" title="Gemified Theme – Beta Release" /><published>2016-10-06T00:00:00-04:00</published><updated>2018-03-20T16:01:04-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/gemified-theme-beta</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/gemified-theme-beta/">&lt;p&gt;Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://rubygems.org/gems/minimal-mistakes-jekyll&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;minimal-mistakes-jekyll&lt;/code&gt;&lt;/a&gt; can only be used with Jekyll proper. If you’re hosting on GitHub Pages or using that gem the theme won’t work. 3rd party themes haven’t been white-listed so it’s a no go for now.&lt;/p&gt;
 
@@ -123,17 +180,17 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
 
 &lt;p&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme: &quot;minimal-mistakes-jekyll&quot;&lt;/code&gt; to your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
 
-&lt;p&gt;If you’re migrating from an existing Minimal Mistakes site you shouldn’t have to change anything else after this. If it’s a new site consult then docs to &lt;a href=&quot;/intro2sd-template/docs/configuration/&quot;&gt;properly config&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you’re migrating from an existing Minimal Mistakes site you shouldn’t have to change anything else after this. If it’s a new site consult then docs to &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/configuration/&quot;&gt;properly config&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p class=&quot;notice--danger&quot;&gt;&lt;strong&gt;Please Note:&lt;/strong&gt; Paths for image headers, overlays, teasers, &lt;a href=&quot;/intro2sd-template/docs/helpers/#gallery&quot;&gt;galleries&lt;/a&gt;, and &lt;a href=&quot;/intro2sd-template/docs/helpers/#feature-row&quot;&gt;feature rows&lt;/a&gt; have changed and now require a full path. Instead of just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: filename.jpg&lt;/code&gt; you’ll need to use the full path eg: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: assets/images/filename.jpg&lt;/code&gt;. The preferred location is now &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/images&lt;/code&gt; but can be placed elsewhere or external hosted. This all applies for image references in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;author.yml&lt;/code&gt; as well.&lt;/p&gt;
+&lt;p class=&quot;notice--danger&quot;&gt;&lt;strong&gt;Please Note:&lt;/strong&gt; Paths for image headers, overlays, teasers, &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/helpers/#gallery&quot;&gt;galleries&lt;/a&gt;, and &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/helpers/#feature-row&quot;&gt;feature rows&lt;/a&gt; have changed and now require a full path. Instead of just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: filename.jpg&lt;/code&gt; you’ll need to use the full path eg: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: assets/images/filename.jpg&lt;/code&gt;. The preferred location is now &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/images&lt;/code&gt; but can be placed elsewhere or external hosted. This all applies for image references in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;author.yml&lt;/code&gt; as well.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-5-jekyll-new-tweaks&quot;&gt;Step 5: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; Tweaks&lt;/h2&gt;
 
 &lt;p&gt;If this is a new site be sure to add the following files to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/&lt;/code&gt; and customize as you see fit. There is currently no way of bundling them in with the theme, so be sure to consult the docs on how to properly use both.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/ui-text.yml&lt;/code&gt;&lt;/a&gt; - UI text &lt;a href=&quot;/intro2sd-template/docs/ui-text/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/navigation.yml&lt;/code&gt;&lt;/a&gt; - navigation &lt;a href=&quot;/intro2sd-template/docs/navigation/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/ui-text.yml&lt;/code&gt;&lt;/a&gt; - UI text &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/ui-text/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/navigation.yml&lt;/code&gt;&lt;/a&gt; - navigation &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/navigation/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;You’ll also need to:&lt;/p&gt;
@@ -157,7 +214,7 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
       &lt;p&gt;You could also run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle update jekyll&lt;/code&gt; to update Jekyll. &lt;a href=&quot;#fnref:update-jekyll&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.</summary></entry><entry><title type="html">Gemified Theme – Alpha Release</title><link href="https://mmistakes.github.io/intro2sd-template/jekyll/gemified-theme-alpha/" rel="alternate" type="text/html" title="Gemified Theme – Alpha Release" /><published>2016-09-21T00:00:00-04:00</published><updated>2018-03-20T16:00:58-04:00</updated><id>https://mmistakes.github.io/intro2sd-template/jekyll/gemified-theme-alpha</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/jekyll/gemified-theme-alpha/">&lt;p&gt;Jekyll &lt;a href=&quot;http://jekyllrb.com/docs/themes/&quot;&gt;themes distributed as Ruby gems&lt;/a&gt; are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to “install it”. Or dealing with merge conflicts when pulling in upstream commits to “upgrade it”.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.</summary></entry><entry><title type="html">Gemified Theme – Alpha Release</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/gemified-theme-alpha/" rel="alternate" type="text/html" title="Gemified Theme – Alpha Release" /><published>2016-09-21T00:00:00-04:00</published><updated>2018-03-20T16:00:58-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/gemified-theme-alpha</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/gemified-theme-alpha/">&lt;p&gt;Jekyll &lt;a href=&quot;http://jekyllrb.com/docs/themes/&quot;&gt;themes distributed as Ruby gems&lt;/a&gt; are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to “install it”. Or dealing with merge conflicts when pulling in upstream commits to “upgrade it”.&lt;/p&gt;
 
 &lt;p&gt;If you’re interested in testing out Minimal Mistakes as a gemified theme read on. There are a few caveats though:&lt;/p&gt;
 
@@ -214,17 +271,17 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
 
 &lt;p&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme: &quot;minimal-mistakes-jekyll&quot;&lt;/code&gt; to your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
 
-&lt;p&gt;If you’re migrating from an existing Minimal Mistakes site you shouldn’t have to change anything else after this. If it’s a new site consult then docs to &lt;a href=&quot;/intro2sd-template/docs/configuration/&quot;&gt;properly config&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you’re migrating from an existing Minimal Mistakes site you shouldn’t have to change anything else after this. If it’s a new site consult then docs to &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/configuration/&quot;&gt;properly config&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p class=&quot;notice--danger&quot;&gt;&lt;strong&gt;Please Note:&lt;/strong&gt; Paths for image headers, overlays, teasers, &lt;a href=&quot;/intro2sd-template/docs/helpers/#gallery&quot;&gt;galleries&lt;/a&gt;, and &lt;a href=&quot;/intro2sd-template/docs/helpers/#feature-row&quot;&gt;feature rows&lt;/a&gt; have changed and now require a full path. Instead of just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: filename.jpg&lt;/code&gt; you’ll need to use the full path eg: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: assets/images/filename.jpg&lt;/code&gt;. The preferred location is now &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/images&lt;/code&gt; but can be placed elsewhere or external hosted. This applies for image references in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;author.yml&lt;/code&gt;.&lt;/p&gt;
+&lt;p class=&quot;notice--danger&quot;&gt;&lt;strong&gt;Please Note:&lt;/strong&gt; Paths for image headers, overlays, teasers, &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/helpers/#gallery&quot;&gt;galleries&lt;/a&gt;, and &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/helpers/#feature-row&quot;&gt;feature rows&lt;/a&gt; have changed and now require a full path. Instead of just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: filename.jpg&lt;/code&gt; you’ll need to use the full path eg: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: assets/images/filename.jpg&lt;/code&gt;. The preferred location is now &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/images&lt;/code&gt; but can be placed elsewhere or external hosted. This applies for image references in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;author.yml&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-5-jekyll-new-tweaks&quot;&gt;Step 5: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; Tweaks&lt;/h2&gt;
 
 &lt;p&gt;If this is a new site be sure to add the following files to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/&lt;/code&gt; and customize as you see fit. There is currently no way of bundling them in with the theme, so be sure to consult the docs on how to properly use both.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/ui-text.yml&lt;/code&gt;&lt;/a&gt; - UI text &lt;a href=&quot;/intro2sd-template/docs/ui-text/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/navigation.yml&lt;/code&gt;&lt;/a&gt; - navigation &lt;a href=&quot;/intro2sd-template/docs/navigation/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/ui-text.yml&lt;/code&gt;&lt;/a&gt; - UI text &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/ui-text/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/_data/navigation.yml&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/navigation.yml&lt;/code&gt;&lt;/a&gt; - navigation &lt;a href=&quot;/intro2sd-marta-molina-fernandez-alu0101603360/docs/navigation/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;You’ll also need to:&lt;/p&gt;
@@ -241,7 +298,7 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/issues/new&quot; class=&quot;btn btn--info btn--large&quot;&gt;File an issue&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Thanks!&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Jekyll themes distributed as Ruby gems are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to “install it”. Or dealing with merge conflicts when pulling in upstream commits to “upgrade it”.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://mmistakes.github.io/intro2sd-template/jekyll/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-02-24T00:00:00-05:00</published><updated>2016-02-24T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-template/jekyll/welcome-to-jekyll</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/jekyll/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Jekyll themes distributed as Ruby gems are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to “install it”. Or dealing with merge conflicts when pulling in upstream commits to “upgrade it”.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-02-24T00:00:00-05:00</published><updated>2016-02-24T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/welcome-to-jekyll</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -254,7 +311,7 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Markup: Syntax Highlighting</title><link href="https://mmistakes.github.io/intro2sd-template/markup-syntax-highlighting/" rel="alternate" type="text/html" title="Markup: Syntax Highlighting" /><published>2013-08-16T00:00:00-04:00</published><updated>2018-01-03T09:45:06-05:00</updated><id>https://mmistakes.github.io/intro2sd-template/markup-syntax-highlighting</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/markup-syntax-highlighting/">&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Markup: Syntax Highlighting</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/markup-syntax-highlighting/" rel="alternate" type="text/html" title="Markup: Syntax Highlighting" /><published>2013-08-16T00:00:00-04:00</published><updated>2018-01-03T09:45:06-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/markup-syntax-highlighting</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/markup-syntax-highlighting/">&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gfm-code-blocks&quot;&gt;GFM Code Blocks&lt;/h3&gt;
 
@@ -395,7 +452,7 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
       &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="code" /><category term="syntax highlighting" /><summary type="html">Post displaying the various ways of highlighting code in Markdown.</summary></entry><entry><title type="html">Markup: Another Post with Images</title><link href="https://mmistakes.github.io/intro2sd-template/markup-more-images/" rel="alternate" type="text/html" title="Markup: Another Post with Images" /><published>2013-05-22T00:00:00-04:00</published><updated>2013-05-22T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-template/markup-more-images</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/markup-more-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Marta Molina</name></author><category term="code" /><category term="syntax highlighting" /><summary type="html">Post displaying the various ways of highlighting code in Markdown.</summary></entry><entry><title type="html">Markup: Another Post with Images</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/markup-more-images/" rel="alternate" type="text/html" title="Markup: Another Post with Images" /><published>2013-05-22T00:00:00-04:00</published><updated>2013-05-22T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/markup-more-images</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/markup-more-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
 
 &lt;h3 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h3&gt;
 
@@ -446,300 +503,4 @@ Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT 
 	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
 	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
 	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>Marta Molina</name></author><category term="sample post" /><category term="images" /><category term="test" /><summary type="html">Examples and code for displaying images in posts.</summary></entry><entry><title type="html">Markup: HTML Tags and Formatting</title><link href="https://mmistakes.github.io/intro2sd-template/markup/markup-html-tags-and-formatting/" rel="alternate" type="text/html" title="Markup: HTML Tags and Formatting" /><published>2013-01-11T00:00:00-05:00</published><updated>2013-01-11T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-template/markup/markup-html-tags-and-formatting</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-template/markup/markup-html-tags-and-formatting/">&lt;p&gt;A variety of common markup showing how the theme styles them.&lt;/p&gt;
-
-&lt;h2 id=&quot;header-two&quot;&gt;Header two&lt;/h2&gt;
-
-&lt;h3 id=&quot;header-three&quot;&gt;Header three&lt;/h3&gt;
-
-&lt;h4 id=&quot;header-four&quot;&gt;Header four&lt;/h4&gt;
-
-&lt;h5 id=&quot;header-five&quot;&gt;Header five&lt;/h5&gt;
-
-&lt;h6 id=&quot;header-six&quot;&gt;Header six&lt;/h6&gt;
-
-&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
-
-&lt;p&gt;Single line blockquote:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Stay hungry. Stay foolish.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Multi line blockquote with a cite reference:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&quot;small&quot;&gt;&lt;cite&gt;Steve Jobs&lt;/cite&gt; — Apple Worldwide Developers’ Conference, 1997&lt;/p&gt;
-
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Employee&lt;/th&gt;
-      &lt;th&gt;Salary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;John Doe&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$1&lt;/td&gt;
-      &lt;td&gt;Because that’s all Steve Jobs needed for a salary.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Jane Doe&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$100K&lt;/td&gt;
-      &lt;td&gt;For all the blogging she does.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Fred Bloggs&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$100M&lt;/td&gt;
-      &lt;td&gt;Pictures are worth a thousand words, right? So Jane × 1,000.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Jane Bloggs&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;$100B&lt;/td&gt;
-      &lt;td&gt;With hair like that?! Enough said.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;definition-lists&quot;&gt;Definition Lists&lt;/h2&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Definition List Title&lt;/dt&gt;
-  &lt;dd&gt;Definition list division.&lt;/dd&gt;
-  &lt;dt&gt;Startup&lt;/dt&gt;
-  &lt;dd&gt;A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.&lt;/dd&gt;
-  &lt;dt&gt;#dowork&lt;/dt&gt;
-  &lt;dd&gt;Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.&lt;/dd&gt;
-  &lt;dt&gt;Do It Live&lt;/dt&gt;
-  &lt;dd&gt;I’ll let Bill O’Reilly &lt;a href=&quot;https://www.youtube.com/watch?v=O_HyZ5aW76c&quot; title=&quot;We&apos;ll Do It Live&quot;&gt;explain&lt;/a&gt; this one.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2 id=&quot;unordered-lists-nested&quot;&gt;Unordered Lists (Nested)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;List item one
-    &lt;ul&gt;
-      &lt;li&gt;List item one
-        &lt;ul&gt;
-          &lt;li&gt;List item one&lt;/li&gt;
-          &lt;li&gt;List item two&lt;/li&gt;
-          &lt;li&gt;List item three&lt;/li&gt;
-          &lt;li&gt;List item four&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;List item two&lt;/li&gt;
-      &lt;li&gt;List item three&lt;/li&gt;
-      &lt;li&gt;List item four&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List item two&lt;/li&gt;
-  &lt;li&gt;List item three&lt;/li&gt;
-  &lt;li&gt;List item four&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ordered-list-nested&quot;&gt;Ordered List (Nested)&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;List item one
-    &lt;ol&gt;
-      &lt;li&gt;List item one
-        &lt;ol&gt;
-          &lt;li&gt;List item one&lt;/li&gt;
-          &lt;li&gt;List item two&lt;/li&gt;
-          &lt;li&gt;List item three&lt;/li&gt;
-          &lt;li&gt;List item four&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;List item two&lt;/li&gt;
-      &lt;li&gt;List item three&lt;/li&gt;
-      &lt;li&gt;List item four&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List item two&lt;/li&gt;
-  &lt;li&gt;List item three&lt;/li&gt;
-  &lt;li&gt;List item four&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
-
-&lt;form&gt;
-  &lt;fieldset&gt;
-    &lt;legend&gt;Personalia:&lt;/legend&gt;
-    Name: &lt;input type=&quot;text&quot; size=&quot;30&quot; /&gt;&lt;br /&gt;
-    Email: &lt;input type=&quot;text&quot; size=&quot;30&quot; /&gt;&lt;br /&gt;
-    Date of birth: &lt;input type=&quot;text&quot; size=&quot;10&quot; /&gt;
-  &lt;/fieldset&gt;
-&lt;/form&gt;
-
-&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
-
-&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn--success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Default Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--primary&quot;&gt;Primary Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--success&quot;&gt;Success Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--warning&quot;&gt;Warning Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--danger&quot;&gt;Danger Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--info&quot;&gt;Info Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--inverse&quot;&gt;Inverse Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--light-outline&quot;&gt;Light Outline Button&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Default Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Primary Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--primary}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Success Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--success}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Warning Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--warning}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Danger Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--danger}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Info Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--info}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Inverse Button&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--inverse}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Light Outline Button&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--light-outline}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn--primary btn--x-large&quot;&gt;X-Large Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--primary btn--large&quot;&gt;Large Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--primary&quot;&gt;Default Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn--primary btn--small&quot;&gt;Small Button&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;X-Large Button&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--primary .btn--x-large}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Large Button&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--primary .btn--large}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Default Button&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--primary }
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Small Button&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn--primary .btn--small}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
-
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; This paragraph of text has been &lt;a href=&quot;#&quot;&gt;emphasized&lt;/a&gt; with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;p class=&quot;notice--primary&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; This paragraph of text has been &lt;a href=&quot;#&quot;&gt;emphasized&lt;/a&gt; with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{: .notice--primary}&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; This paragraph of text has been &lt;a href=&quot;#&quot;&gt;emphasized&lt;/a&gt; with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{: .notice--info}&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;p class=&quot;notice--warning&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; This paragraph of text has been &lt;a href=&quot;#&quot;&gt;emphasized&lt;/a&gt; with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{: .notice--warning}&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;p class=&quot;notice--success&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; This paragraph of text has been &lt;a href=&quot;#&quot;&gt;emphasized&lt;/a&gt; with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{: .notice--success}&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;p class=&quot;notice--danger&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; This paragraph of text has been &lt;a href=&quot;#&quot;&gt;emphasized&lt;/a&gt; with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{: .notice--danger}&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;h2 id=&quot;html-tags&quot;&gt;HTML Tags&lt;/h2&gt;
-
-&lt;h3 id=&quot;address-tag&quot;&gt;Address Tag&lt;/h3&gt;
-
-&lt;address&gt;
-  1 Infinite Loop&lt;br /&gt; Cupertino, CA 95014&lt;br /&gt; United States
-&lt;/address&gt;
-
-&lt;h3 id=&quot;anchor-tag-aka-link&quot;&gt;Anchor Tag (aka. Link)&lt;/h3&gt;
-
-&lt;p&gt;This is an example of a &lt;a href=&quot;http://apple.com&quot; title=&quot;Apple&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;abbreviation-tag&quot;&gt;Abbreviation Tag&lt;/h3&gt;
-
-&lt;p&gt;The abbreviation &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt; stands for “Cascading Style Sheets”.&lt;/p&gt;
-
-&lt;h3 id=&quot;cite-tag&quot;&gt;Cite Tag&lt;/h3&gt;
-
-&lt;p&gt;“Code is poetry.” —&lt;cite&gt;Automattic&lt;/cite&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;code-tag&quot;&gt;Code Tag&lt;/h3&gt;
-
-&lt;p&gt;You will learn later on in these tests that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;word-wrap: break-word;&lt;/code&gt; will be your best friend.&lt;/p&gt;
-
-&lt;h3 id=&quot;strike-tag&quot;&gt;Strike Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag will let you &lt;strike&gt;strikeout text&lt;/strike&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;emphasize-tag&quot;&gt;Emphasize Tag&lt;/h3&gt;
-
-&lt;p&gt;The emphasize tag should &lt;em&gt;italicize&lt;/em&gt; text.&lt;/p&gt;
-
-&lt;h3 id=&quot;insert-tag&quot;&gt;Insert Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag should denote &lt;ins&gt;inserted&lt;/ins&gt; text.&lt;/p&gt;
-
-&lt;h3 id=&quot;keyboard-tag&quot;&gt;Keyboard Tag&lt;/h3&gt;
-
-&lt;p&gt;This scarcely known tag emulates &lt;kbd&gt;keyboard text&lt;/kbd&gt;, which is usually styled like the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
-
-&lt;h3 id=&quot;preformatted-tag&quot;&gt;Preformatted Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag styles large blocks of code.&lt;/p&gt;
-
-&lt;pre&gt;
-.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-	and here&apos;s a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-&lt;/pre&gt;
-
-&lt;h3 id=&quot;quote-tag&quot;&gt;Quote Tag&lt;/h3&gt;
-
-&lt;p&gt;&lt;q&gt;Developers, developers, developers…&lt;/q&gt; –Steve Ballmer&lt;/p&gt;
-
-&lt;h3 id=&quot;strong-tag&quot;&gt;Strong Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag shows &lt;strong&gt;bold text&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;subscript-tag&quot;&gt;Subscript Tag&lt;/h3&gt;
-
-&lt;p&gt;Getting our science styling on with H&lt;sub&gt;2&lt;/sub&gt;O, which should push the “2” down.&lt;/p&gt;
-
-&lt;h3 id=&quot;superscript-tag&quot;&gt;Superscript Tag&lt;/h3&gt;
-
-&lt;p&gt;Still sticking with science and Albert Einstein’s E = MC&lt;sup&gt;2&lt;/sup&gt;, which should lift the 2 up.&lt;/p&gt;
-
-&lt;h3 id=&quot;variable-tag&quot;&gt;Variable Tag&lt;/h3&gt;
-
-&lt;p&gt;This allows you to denote &lt;var&gt;variables&lt;/var&gt;.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Markup" /><category term="content" /><category term="css" /><category term="formatting" /><category term="html" /><category term="markup" /><summary type="html">A variety of common markup showing how the theme styles them.</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Marta Molina</name></author><category term="sample post" /><category term="images" /><category term="test" /><summary type="html">Examples and code for displaying images in posts.</summary></entry></feed>
