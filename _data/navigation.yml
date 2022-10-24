@@ -18,9 +18,9 @@ foo:
         url: /child-3-page-url/
 
 
-# main links
+# main links          Primero un objeto con dos argumentos title y url, lo q va con - son elementos del array
 main:
-  - title: "Quick-Start Guide"
+  - title: "Introducción a Minimal Mistakes"
     url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
