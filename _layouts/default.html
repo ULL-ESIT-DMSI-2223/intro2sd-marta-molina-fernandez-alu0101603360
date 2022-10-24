@@ -21,7 +21,7 @@
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div class="initial-content">
+    <div class="initial-content"> <!-- contenido del markdown que escribiste en posts, la forma en la que se verán esas páginas -->
       {{ content }}
       <div align="center" style="margin: 1em 0;">
         <ins class="adsbygoogle"
@@ -33,13 +33,13 @@
       </div>
     </div>
 
-    {% if site.search == true %}
+    {% if site.search == true %} <!-- este if dice q si en config pusieste search = true entonces te sale un formulario de búsqueda y eso, básicamente q puedes buscar -->
       <div class="search-content">
         {% include search/search_form.html %}
       </div>
     {% endif %}
 
-    <div class="page__footer">
+    <div class="page__footer"> <!-- El pie de página tipo redes sociales y eso -->
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
