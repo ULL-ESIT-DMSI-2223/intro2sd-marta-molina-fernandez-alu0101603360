@@ -570,9 +570,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Summary of Introduction to systems Development",
-        "excerpt":"Welcome   Hello,  first attempt.   Bye!  ","categories": [],
-        "tags": [],
-        "url": "/intro2sd-marta-molina-fernandez-alu0101603360/intro2sd/",
+        "excerpt":" Resumen del capítulo  ","categories": ["Summaries"],
+        "tags": ["Summary","System development"],
+        "url": "/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/",
         "teaser": null
       },{
         "title": "Post: Future Date",
