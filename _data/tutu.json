@@ -1,5 +1,8 @@
 {
     "titulo": "The Walking Dead",
     "temporada": 1,
-    "colores": ["rojo", "verde", "azul"]
+    "colores": {
+        "color": ["rojo", "verde", "azul"],
+        "texto": "Seccion de Colores"
+    }
 }
