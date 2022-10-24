@@ -1,16 +1,18 @@
 <!doctype html>
 <!--
+  Así se escriben los comentarios en HTML
+
   Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
-<html lang="en" class="no-js">
-  <head>
+<html lang="en" class="no-js"> <!-- en es de english, esta línea indica el lenguaje de la página, es un atributo html (lang), por defecto si no la pones la página está en inglés -->
+  <head> <!-- include incluye el fichero x que estará en la carpeta _includes, esta carpeta está en remoto, todo el tema de remote_theme de usar una plantilla-->
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Informe - Introducción al Desarrollo de Sistemas</title>
-<meta name="description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.  El título de esta página es: Informe  Esta página tiene una variable tags que es una lista con estos valores:  Post Formatsreadabilitystandard  Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)          Post Formats           readability           standard      {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;[“rojo”, “verde”, “azul”]}  The Walking Dead  En la temporada  1 de The Walking Dead vimos muchos colores:          rojo           azul      En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):          azul           verde           rojo      Otras cosas  tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu  The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
+<meta name="description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.  El título de esta página es: Informe  Esta página tiene una variable tags que es una lista con estos valores:  Post Formatsreadabilitystandard  Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)          Post Formats           readability           standard      {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;{“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}}  The Walking Dead  En la temporada  1 de The Walking Dead vimos muchos colores:          colorrojoverdeazul           textoSeccion de Colores      Colores antes era un array ahora es un objeto  En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):     {“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}   Seccion de Colores          rojo           verde           azul      Otras cosas  tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu  The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
 
 
   <meta name="author" content="Marta Molina">
@@ -26,7 +28,7 @@
 <meta property="og:url" content="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/">
 
 
-  <meta property="og:description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.  El título de esta página es: Informe  Esta página tiene una variable tags que es una lista con estos valores:  Post Formatsreadabilitystandard  Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)          Post Formats           readability           standard      {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;[“rojo”, “verde”, “azul”]}  The Walking Dead  En la temporada  1 de The Walking Dead vimos muchos colores:          rojo           azul      En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):          azul           verde           rojo      Otras cosas  tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu  The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
+  <meta property="og:description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.  El título de esta página es: Informe  Esta página tiene una variable tags que es una lista con estos valores:  Post Formatsreadabilitystandard  Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)          Post Formats           readability           standard      {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;{“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}}  The Walking Dead  En la temporada  1 de The Walking Dead vimos muchos colores:          colorrojoverdeazul           textoSeccion de Colores      Colores antes era un array ahora es un objeto  En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):     {“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}   Seccion de Colores          rojo           verde           azul      Otras cosas  tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu  The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
 
 
 
@@ -36,7 +38,7 @@
 
   <meta name="twitter:site" content="@mmistakes">
   <meta name="twitter:title" content="Informe">
-  <meta name="twitter:description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.  El título de esta página es: Informe  Esta página tiene una variable tags que es una lista con estos valores:  Post Formatsreadabilitystandard  Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)          Post Formats           readability           standard      {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;[“rojo”, “verde”, “azul”]}  The Walking Dead  En la temporada  1 de The Walking Dead vimos muchos colores:          rojo           azul      En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):          azul           verde           rojo      Otras cosas  tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu  The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
+  <meta name="twitter:description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.  El título de esta página es: Informe  Esta página tiene una variable tags que es una lista con estos valores:  Post Formatsreadabilitystandard  Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)          Post Formats           readability           standard      {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;{“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}}  The Walking Dead  En la temporada  1 de The Walking Dead vimos muchos colores:          colorrojoverdeazul           textoSeccion de Colores      Colores antes era un array ahora es un objeto  En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):     {“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}   Seccion de Colores          rojo           verde           azul      Otras cosas  tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu  The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
   <meta name="twitter:url" content="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/">
 
   
@@ -295,7 +297,7 @@
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Informe">
-    <meta itemprop="description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.El título de esta página es: InformeEsta página tiene una variable tags que es una lista con estos valores:Post FormatsreadabilitystandardPoner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)      Post Formats        readability        standard  {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;[“rojo”, “verde”, “azul”]}The Walking DeadEn la temporada  1 de The Walking Dead vimos muchos colores:      rojo        azul  En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):      azul        verde        rojo  Otras cosastutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutuThe stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution.Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
+    <meta itemprop="description" content="Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.El título de esta página es: InformeEsta página tiene una variable tags que es una lista con estos valores:Post FormatsreadabilitystandardPoner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto)      Post Formats        readability        standard  {“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;{“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}}The Walking DeadEn la temporada  1 de The Walking Dead vimos muchos colores:      colorrojoverdeazul        textoSeccion de Colores  Colores antes era un array ahora es un objetoEn la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):  {“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}Seccion de Colores      rojo        verde        azul  Otras cosastutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutuThe stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution.Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.">
     <meta itemprop="datePublished" content="2022-10-01T00:00:00-04:00">
     
 
@@ -330,7 +332,8 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.</p>
+        
+<p>Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.</p>
 
 <p>El título de esta página es: Informe</p>
 
@@ -352,7 +355,7 @@
   </li>
 </ul>
 
-<p>{“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;[“rojo”, “verde”, “azul”]}</p>
+<p>{“titulo”=&gt;”The Walking Dead”, “temporada”=&gt;1, “colores”=&gt;{“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}}</p>
 
 <h2 id="the-walking-dead">The Walking Dead</h2>
 
@@ -360,24 +363,32 @@
 
 <ul>
   <li>
-    <p>rojo</p>
+    <p>colorrojoverdeazul</p>
   </li>
   <li>
-    <p>azul</p>
+    <p>textoSeccion de Colores</p>
   </li>
 </ul>
+
+<p>Colores antes era un array ahora es un objeto</p>
 
 <p>En la temporada  1 de The Walking Dead vimos muchos colores (lista inversa):</p>
 
 <ul>
+  <li>{“color”=&gt;[“rojo”, “verde”, “azul”], “texto”=&gt;”Seccion de Colores”}</li>
+</ul>
+
+<h2 id="seccion-de-colores">Seccion de Colores</h2>
+
+<ul>
   <li>
-    <p>azul</p>
+    <p>rojo</p>
   </li>
   <li>
     <p>verde</p>
   </li>
   <li>
-    <p>rojo</p>
+    <p>azul</p>
   </li>
 </ul>
 
