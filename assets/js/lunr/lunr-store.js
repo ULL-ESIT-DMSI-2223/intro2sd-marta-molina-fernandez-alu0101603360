@@ -570,7 +570,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Summary of Introduction to systems Development",
-        "excerpt":" Resumen del capítulo  ","categories": ["Summaries"],
+        "excerpt":" Resumen del capítulo 1 de Introduction to Systems Development  ","categories": ["Summaries"],
         "tags": ["Summary","System development"],
         "url": "/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/",
         "teaser": null
