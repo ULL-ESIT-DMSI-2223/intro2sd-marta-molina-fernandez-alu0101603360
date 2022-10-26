@@ -9,6 +9,6 @@ task :build do
   sh "bundle exec jekyll build --future -V"
 end
 
-task deploy: [ :build ] do
+task deploy: [ :build ] do #La idea es llevar los ficheros de _ssh al servidor de la aplicación web que va a hacer el despliege
   sh "npx gh-pages -d _site"
 end

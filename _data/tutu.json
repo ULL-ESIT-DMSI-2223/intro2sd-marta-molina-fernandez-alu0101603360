@@ -3,6 +3,7 @@
     "temporada": 1,
     "colores": {
         "color": ["rojo", "verde", "azul"],
+        "alumnos": ["guillermo", "jorge", "patricia"],
         "texto": "Seccion de Colores"
     }
 }
