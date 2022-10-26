@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve`. If you change this file, please restart the server process.c
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
@@ -187,6 +187,8 @@ kramdown:
 
 # Collections
 collections:
+  tareas:
+    output: true # para que jekyll la procese hay q poner output a true
   docs:
     output: true
     permalink: /:collection/:path/
