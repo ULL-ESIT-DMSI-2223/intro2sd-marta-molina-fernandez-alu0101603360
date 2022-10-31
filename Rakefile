@@ -1,5 +1,5 @@
 task :serve do
-  sh "bundle exec jekyll s --watch --incremental --future -V -P 4001"
+  sh "bundle exec jekyll s --watch --incremental --future -V -P 4002"
 end
 
 # watch es para q si algo ha cambiado, recompile, --incremental creo q lo reconstruye todo
