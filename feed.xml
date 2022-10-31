@@ -1,6 +1,1356 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/" rel="alternate" type="text/html" /><updated>2022-10-26T06:15:41-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml</id><title type="html">Introducción al Desarrollo de Sistemas</title><subtitle>Página web para la prácticas de DMSI en el grado de informática.</subtitle><author><name>Marta Molina</name></author><entry><title type="html">Post: Future Date</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/" rel="alternate" type="text/html" title="Post: Future Date" /><published>9999-12-31T00:00:00-05:00</published><updated>9999-12-31T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/">&lt;p&gt;This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--future&lt;/code&gt; flag it should appear.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post" /><summary type="html">This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.</summary></entry><entry><title type="html">Summary of Introduction to systems Development</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/" rel="alternate" type="text/html" title="Summary of Introduction to systems Development" /><published>2022-10-18T00:00:00-04:00</published><updated>2022-10-18T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/">&lt;p&gt;Resumen del capítulo 1 de Introduction to Systems Development&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/" rel="alternate" type="text/html" /><updated>2022-10-31T06:08:39-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml</id><title type="html">Introducción al Desarrollo de Sistemas</title><subtitle>Página web para la prácticas de DMSI en el grado de informática.</subtitle><author><name>Marta Molina</name></author><entry><title type="html">Post: Future Date</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/" rel="alternate" type="text/html" title="Post: Future Date" /><published>9999-12-31T00:00:00-05:00</published><updated>9999-12-31T00:00:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/">&lt;p&gt;This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--future&lt;/code&gt; flag it should appear.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post" /><summary type="html">This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.</summary></entry><entry><title type="html">Summary of Introduction to Systems Development</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/" rel="alternate" type="text/html" title="Summary of Introduction to Systems Development" /><published>2022-10-18T00:00:00-04:00</published><updated>2022-10-18T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/">&lt;p&gt;Resumen del capítulo 1 de Introduction to Systems Development&lt;/p&gt;
 
-&lt;!-- resumen.capitulos.first = resumen.cpaitulos[0] --&gt;</content><author><name>Marta Molina</name></author><category term="Summaries" /><category term="Summary" /><category term="System development" /><summary type="html">Resumen del capítulo 1 de Introduction to Systems Development</summary></entry><entry><title type="html">Informe</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/" rel="alternate" type="text/html" title="Informe" /><published>2022-10-01T00:00:00-04:00</published><updated>2022-10-01T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/">&lt;p&gt;Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.&lt;/p&gt;
+&lt;!-- resumen.capitulos.first = resumen.cpaitulos[0] --&gt;</content><author><name>Marta Molina</name></author><category term="Summaries" /><category term="Summary" /><category term="System development" /><summary type="html">Resumen del capítulo 1 de Introduction to Systems Development</summary></entry><entry><title type="html">Informe</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/" rel="alternate" type="text/html" title="Informe" /><published>2022-10-01T00:00:00-04:00</published><updated>2022-10-01T00:00:00-04:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/">&lt;h2 id=&quot;2022-10-31-060839--0400-&quot;&gt;2022-10-31 06:08:39 -0400 &lt;!-- contiene la hora en la que se creó la página, cando se generó--&gt;&lt;/h2&gt;
+
+&lt;!-- Sorry, but the page you were trying to view does not exist.
+Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+
+{% include gallery id=&quot;layouts_gallery&quot; caption=&quot;Examples of included layouts `splash`, `single`, and `archive`.&quot; %}
+
+[Install the Theme]({{ &quot;/docs/quick-start-guide/&quot; | relative_url }}){: .btn .btn--success .btn--large}
+
+## Notable Features
+
+- Bundled as a &quot;theme gem&quot; for easier install/upgrading.
+- Compatible with GitHub Pages.
+- Support for Jekyll&apos;s built-in Sass/SCSS preprocessor.
+- Nine different skins (color variations).
+- Several responsive layout options (single, archive index, search, splash, and paginated home page).
+- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
+- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
+- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
+- [Google Analytics](https://www.google.com/analytics/) support.
+- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+
+## Demo Pages
+
+| Name                                        | Description                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| [Post with Header Image][header-image-post] | A post with a large header image. |
+| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
+| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
+| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `&lt;figure&gt;` elements. |
+| [Sample Collection Page][sample-collection] | Single page from a collection. |
+| [Categories Archive][categories-archive] | Posts grouped by category. |
+| [Tags Archive][tags-archive] | Posts grouped by tag. |
+
+For even more demo pages check the [posts archive][year-archive].
+
+[header-image-post]: {{ &quot;&quot; | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
+[gallery-post]: {{ &quot;&quot; | relative_url }}{% post_url 2010-09-09-post-gallery %}
+[html-tags-post]: {{ &quot;&quot; | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
+[syntax-post]: {{ &quot;&quot; | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
+[sample-collection]: {{ &quot;/recipes/chocolate-chip-cookies/&quot; | relative_url }}
+[categories-archive]: {{ &quot;/categories/&quot; | relative_url }}
+[tags-archive]: {{ &quot;/tags/&quot; | relative_url }}
+[year-archive]: {{ &quot;/year-archive/&quot; | relative_url }}
+
+---
+
+## Credits
+
+### Icons + Demo Images:
+
+- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+- [Font Awesome](http://fontawesome.io/)
+- [Unsplash](https://unsplash.com/)
+
+### Other:
+
+- [Jekyll](https://jekyllrb.com/)
+- [jQuery](https://jquery.com/)
+- [Susy](http://susy.oddbird.net/)
+- [Breakpoint](http://breakpoint-sass.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
+- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
+- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [Lunr](http://lunrjs.com)
+
+---
+
+Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+A variety of common markup showing how the theme styles them.
+
+# Header one
+
+## Header two
+
+### Header three
+
+#### Header four
+
+##### Header five
+
+###### Header six
+
+## Blockquotes
+
+Single line blockquote:
+
+&gt; Stay hungry. Stay foolish.
+
+Multi line blockquote with a cite reference:
+
+&gt; People think focus means saying yes to the thing you&apos;ve got to focus on. But that&apos;s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I&apos;m actually as proud of the things we haven&apos;t done as the things I have done. Innovation is saying no to 1,000 things.
+
+&lt;cite&gt;Steve Jobs&lt;/cite&gt; --- Apple Worldwide Developers&apos; Conference, 1997
+{: .small}
+
+## Tables
+
+| Employee         | Salary |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | $1     | Because that&apos;s all Steve Jobs needed for a salary.           |
+| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
+| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
+| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
+
+## Definition Lists
+
+Definition List Title
+:   Definition list division.
+
+Startup
+:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+
+#dowork
+:   Coined by Rob Dyrdek and his personal body guard Christopher &quot;Big Black&quot; Boykins, &quot;Do Work&quot; works as a self motivator, to motivating your friends.
+
+Do It Live
+:   I&apos;ll let Bill O&apos;Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c &quot;We&apos;ll Do It Live&quot;) this one.
+
+## Unordered Lists (Nested)
+
+  * List item one 
+      * List item one 
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+  * List item two
+  * List item three
+  * List item four
+
+## Ordered List (Nested)
+
+  1. List item one 
+      1. List item one 
+          1. List item one
+          2. List item two
+          3. List item three
+          4. List item four
+      2. List item two
+      3. List item three
+      4. List item four
+  2. List item two
+  3. List item three
+  4. List item four
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+```html
+&lt;a href=&quot;#&quot; class=&quot;btn--success&quot;&gt;Success Button&lt;/a&gt;
+```
+
+[Primary Button](#){: .btn}
+[Success Button](#){: .btn .btn--success}
+[Warning Button](#){: .btn .btn--warning}
+[Danger Button](#){: .btn .btn--danger}
+[Info Button](#){: .btn .btn--info}
+[Inverse Button](#){: .btn .btn--inverse}
+[Light Outline Button](#){: .btn .btn--light-outline}
+
+```markdown
+[Primary Button Text](#link){: .btn}
+[Success Button Text](#link){: .btn .btn--success}
+[Warning Button Text](#link){: .btn .btn--warning}
+[Danger Button Text](#link){: .btn .btn--danger}
+[Info Button Text](#link){: .btn .btn--info}
+[Inverse Button](#link){: .btn .btn--inverse}
+[Light Outline Button](#link){: .btn .btn--light-outline}
+```
+
+[X-Large Button](#){: .btn .btn--x-large}
+[Large Button](#){: .btn .btn--large}
+[Default Button](#){: .btn}
+[Small Button](#){: .btn .btn--small}
+
+```markdown
+[X-Large Button](#link){: .btn .btn--x-large}
+[Large Button](#link){: .btn .btn--large}
+[Default Button](#link){: .btn}
+[Small Button](#link){: .btn .btn--small}
+```
+
+## Notices
+
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
+
+## HTML Tags
+
+### Address Tag
+
+&lt;address&gt;
+  1 Infinite Loop&lt;br /&gt; Cupertino, CA 95014&lt;br /&gt; United States
+&lt;/address&gt;
+
+### Anchor Tag (aka. Link)
+
+This is an example of a [link](http://apple.com &quot;Apple&quot;).
+
+### Abbreviation Tag
+
+The abbreviation CSS stands for &quot;Cascading Style Sheets&quot;.
+
+*[CSS]: Cascading Style Sheets
+
+### Cite Tag
+
+&quot;Code is poetry.&quot; ---&lt;cite&gt;Automattic&lt;/cite&gt;
+
+### Code Tag
+
+You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+
+### Strike Tag
+
+This tag will let you &lt;strike&gt;strikeout text&lt;/strike&gt;.
+
+### Emphasize Tag
+
+The emphasize tag should _italicize_ text.
+
+### Insert Tag
+
+This tag should denote &lt;ins&gt;inserted&lt;/ins&gt; text.
+
+### Keyboard Tag
+
+This scarcely known tag emulates &lt;kbd&gt;keyboard text&lt;/kbd&gt;, which is usually styled like the `&lt;code&gt;` tag.
+
+### Preformatted Tag
+
+This tag styles large blocks of code.
+
+&lt;pre&gt;
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here&apos;s a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+&lt;/pre&gt;
+
+### Quote Tag
+
+&lt;q&gt;Developers, developers, developers&amp;#8230;&lt;/q&gt; &amp;#8211;Steve Ballmer
+
+### Strong Tag
+
+This tag shows **bold text**.
+
+### Subscript Tag
+
+Getting our science styling on with H&lt;sub&gt;2&lt;/sub&gt;O, which should push the &quot;2&quot; down.
+
+### Superscript Tag
+
+Still sticking with science and Albert Einstein&apos;s E = MC&lt;sup&gt;2&lt;/sup&gt;, which should lift the 2 up.
+
+### Variable Tag
+
+This allows you to denote &lt;var&gt;variables&lt;/var&gt;.
+
+{% for post in site.pages %}
+{% include archive-single.html %}
+{% endfor %}{% capture written_label %}&apos;None&apos;{% endcapture %}
+
+{% for collection in site.collections %}
+  {% unless collection.output == false or collection.label == &quot;posts&quot; %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      &lt;h2 id=&quot;{{ label | slugify }}&quot; class=&quot;archive__subtitle&quot;&gt;{{ label }}&lt;/h2&gt;
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == &quot;posts&quot; %}
+      {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}Sample post listing for the category `Edge Case`.
+{% include feature_row %}
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
+
+Cras volutpat, lacus quis semper pharetra, nisi enim dignissim est, et sollicitudin quam ipsum vel mi. Sed commodo urna ac urna. Nullam eu tortor. Curabitur sodales scelerisque magna. Donec ultricies tristique pede. Nullam libero. Nam sollicitudin felis vel metus. Nullam posuere molestie metus. Nullam molestie, nunc id suscipit rhoncus, felis mi vulputate lacus, a ultrices tortor dolor eget augue. Aenean ultricies felis ut turpis. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse placerat tellus ac nulla. Proin adipiscing sem ac risus. Maecenas nisi. Cras semper.
+
+Praesent interdum mollis neque. In egestas nulla eget pede. Integer eu purus sed diam dictum scelerisque. Morbi cursus velit et felis. Maecenas faucibus aliquet erat. In aliquet rhoncus tellus. Integer auctor nibh a nunc fringilla tempus. Cras turpis urna, dignissim vel, suscipit pulvinar, rutrum quis, sem. Ut lobortis convallis dui. Sed nonummy orci a justo. Morbi nec diam eget eros eleifend tincidunt.
+
+Curabitur non elit. Pellentesque iaculis, nisl non aliquet adipiscing, purus urna aliquet orci, sed sodales pede neque at massa. Pellentesque laoreet, enim eget varius mollis, sapien erat suscipit metus, sit amet iaculis nulla sapien id felis. Aliquam erat volutpat. Nam congue nulla a ligula. Morbi tempor hendrerit erat. Curabitur augue. Vestibulum nulla est, commodo et, fringilla quis, bibendum eget, ipsum. Suspendisse pulvinar iaculis ante. Mauris dignissim ante quis nisi. Aliquam ante mi, aliquam et, pellentesque ac, dapibus et, enim. In vulputate justo vel magna. Phasellus imperdiet justo. Proin odio orci, dapibus id, porta a, pellentesque id, erat. Aliquam erat volutpat. Mauris nonummy varius libero. Sed dolor ipsum, tempor non, aliquet et, pulvinar quis, dui. Pellentesque mauris diam, lobortis id, varius varius, facilisis at, nulla.
+
+Cras pede. Nullam id velit sit amet turpis tincidunt sagittis. Nunc malesuada. Nunc consequat scelerisque odio. Donec eu leo. Nunc pellentesque felis sed odio. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus lobortis metus in lectus. Cras mollis quam eget sapien. Pellentesque non lorem sit amet sem lacinia euismod.
+
+Nulla eget diam eget leo imperdiet consequat. Morbi nunc magna, pellentesque eu, porta at, ultricies ut, neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In tincidunt. Praesent ut orci id eros congue ultrices. Mauris non neque. Donec nulla ante, molestie sit amet, fermentum nec, blandit sit amet, purus. Fusce eget diam eu odio iaculis mollis. Phasellus consectetuer pede quis nisi. Proin non sem ut elit pulvinar faucibus. In a turpis nec augue fringilla elementum.
+
+Nullam felis. Donec in nulla. Suspendisse sodales, turpis in suscipit ullamcorper, enim nunc sagittis risus, eu auctor velit tortor ut turpis. Mauris id augue at neque aliquam eleifend. Sed eget augue. Nunc faucibus ligula sed massa. Etiam non nulla. Etiam accumsan ullamcorper nisl. In pharetra massa at nunc. Nunc elementum. Duis sodales enim nec libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Praesent dapibus eros sodales urna. Duis magna nisi, lobortis quis, tincidunt rutrum, posuere non, ipsum.
+
+Aliquam convallis neque vitae diam. In diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum arcu in tortor. Sed nibh leo, rhoncus eu, fermentum et, scelerisque ac, massa. Cras id turpis. Etiam commodo sem luctus lorem. Morbi at mi. In rutrum. Aenean luctus pede euismod tortor. Phasellus dictum. Cras neque justo, venenatis sit amet, tristique et, vulputate in, dui. Etiam sed mi gravida sapien imperdiet dictum. Aliquam gravida orci a tortor. Donec tempor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus risus ante, pellentesque vitae, luctus eget, scelerisque sed, libero. Donec massa.
+
+Donec libero mauris, volutpat at, convallis vel, laoreet euismod, augue. In accumsan malesuada risus. Mauris metus magna, condimentum in, nonummy non, ornare eu, velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin posuere. Proin rhoncus rutrum lorem. Phasellus dignissim massa non libero volutpat tincidunt. In hac habitasse platea dictumst. Phasellus eget eros. Nulla in nulla. Vivamus quis mauris. Maecenas pharetra rhoncus tellus. Sed sit amet lacus.
+
+Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi commodo, risus a pulvinar adipiscing, tortor pede posuere risus, ac ornare tellus massa nec lectus. Vivamus mollis metus ac sapien. Nam sed est a libero ullamcorper dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean a erat ac nibh accumsan volutpat. Phasellus pulvinar consequat turpis. Curabitur ante metus, tempus ut, consequat eu, sollicitudin sit amet, justo. Duis ut libero.
+
+Հայերեն
+
+Lorem Ipsum-ը տպագրության և տպագրական արդյունաբերության համար նախատեսված մոդելային տեքստ է: Սկսած 1500-ականներից\` Lorem Ipsum-ը հանդիսացել է տպագրական արդյունաբերության ստանդարտ մոդելային տեքստ, ինչը մի անհայտ տպագրիչի կողմից տարբեր տառատեսակների օրինակների գիրք ստեղծելու ջանքերի արդյունք է: Այս տեքստը ոչ միայն կարողացել է գոյատևել հինգ դարաշրջան, այլև ներառվել է էլեկտրոնային տպագրության մեջ\` մնալով էապես անփոփոխ: Այն հայտնի է դարձել 1960-ականներին Lorem Ipsum բովանդակող Letraset էջերի թողարկման արդյունքում, իսկ ավելի ուշ համակարգչային տպագրության այնպիսի ծրագրերի թողարկման հետևանքով, ինչպիսին է Aldus PageMaker-ը, որը ներառում է Lorem Ipsum-ի տարատեսակներ:
+
+Български
+
+Lorem Ipsum е елементарен примерен текст, използван в печатарската и типографската индустрия. Lorem Ipsum е индустриален стандарт от около 1500 година, когато неизвестен печатар взема няколко печатарски букви и ги разбърква, за да напечата с тях книга с примерни шрифтове. Този начин не само е оцелял повече от 5 века, но е навлязъл и в публикуването на електронни издания като е запазен почти без промяна. Популяризиран е през 60те години на 20ти век със издаването на Letraset листи, съдържащи Lorem Ipsum пасажи, популярен е и в наши дни във софтуер за печатни издания като Aldus PageMaker, който включва различни версии на Lorem Ipsum.
+
+Català
+
+Lorem Ipsum és un text de farciment usat per la indústria de la tipografia i la impremta. Lorem Ipsum ha estat el text estàndard de la indústria des de l&amp;#8217;any 1500, quan un impressor desconegut va fer servir una galerada de text i la va mesclar per crear un llibre de mostres tipogràfiques. No només ha sobreviscut cinc segles, sinó que ha fet el salt cap a la creació de tipus de lletra electrònics, romanent essencialment sense canvis. Es va popularitzar l&amp;#8217;any 1960 amb el llançament de fulls Letraset que contenien passatges de Lorem Ipsum, i més recentment amb programari d&amp;#8217;autoedició com Aldus Pagemaker que inclou versions de Lorem Ipsum.
+
+Hrvatski
+
+Lorem Ipsum je jednostavno probni tekst koji se koristi u tiskarskoj i slovoslagarskoj industriji. Lorem Ipsum postoji kao industrijski standard još od 16-og stoljeća, kada je nepoznati tiskar uzeo tiskarsku galiju slova i posložio ih da bi napravio knjigu s uzorkom tiska. Taj je tekst ne samo preživio pet stoljeća, već se i vinuo u svijet elektronskog slovoslagarstva, ostajući u suštini nepromijenjen. Postao je popularan tijekom 1960-ih s pojavom Letraset listova s odlomcima Lorem Ipsum-a, a u skorije vrijeme sa software-om za stolno izdavaštvo kao što je Aldus PageMaker koji također sadrži varijante Lorem Ipsum-a.
+
+Česky
+
+Lorem Ipsum je demonstrativní výplňový text používaný v tiskařském a knihařském průmyslu. Lorem Ipsum je považováno za standard v této oblasti už od začátku 16. století, kdy dnes neznámý tiskař vzal kusy textu a na jejich základě vytvořil speciální vzorovou knihu. Jeho odkaz nevydržel pouze pět století, on přežil i nástup elektronické sazby v podstatě beze změny. Nejvíce popularizováno bylo Lorem Ipsum v šedesátých letech 20. století, kdy byly vydávány speciální vzorníky s jeho pasážemi a později pak díky počítačovým DTP programům jako Aldus PageMaker.
+
+Româna
+
+Lorem Ipsum este pur şi simplu o machetă pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei încă din secolul al XVI-lea, când un tipograf anonim a luat o planşetă de litere şi le-a amestecat pentru a crea o carte demonstrativă pentru literele respective. Nu doar că a supravieţuit timp de cinci secole, dar şi a facut saltul în tipografia electronică practic neschimbată. A fost popularizată în anii &amp;#8217;60 odată cu ieşirea colilor Letraset care conţineau pasaje Lorem Ipsum, iar mai recent, prin programele de publicare pentru calculator, ca Aldus PageMaker care includeau versiuni de Lorem Ipsum.
+
+Српски
+
+Lorem Ipsum је једноставно модел текста који се користи у штампарској и словослагачкој индустрији. Lorem ipsum је био стандард за модел текста још од 1500. године, када је непознати штампар узео кутију са словима и сложио их како би направио узорак књиге. Не само што је овај модел опстао пет векова, него је чак почео да се користи и у електронским медијима, непроменивши се. Популаризован је шездесетих година двадесетог века заједно са листовима летерсета који су садржали Lorem Ipsum пасусе, а данас са софтверским пакетом за прелом као што је Aldus PageMaker који је садржао Lorem Ipsum верзије.Sample post listing for the tag `markup`.
+Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.{% for post in site.pages %}
+  {% unless post.hidden %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+(lorem ipsum)Sample document listing for the collection `_pets`.
+Sample document listing for the collection `_portfolio`.
+{% for post in site.posts limit: 5 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include feature_row id=&quot;intro&quot; type=&quot;center&quot; %}
+
+{% include feature_row %}
+
+{% include feature_row id=&quot;feature_row2&quot; type=&quot;left&quot; %}
+
+{% include feature_row id=&quot;feature_row3&quot; type=&quot;right&quot; %}
+
+{% include feature_row id=&quot;feature_row4&quot; type=&quot;center&quot; %}Sample document listing for the collection `_recipes`.This is an example page. It&apos;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+&gt; Hi there! I&apos;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&apos;a coladas. (And gettin&apos; caught in the rain.)
+
+...or something like this:
+
+&gt; The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
+
+You should probably delete this page and create new pages for your content. Have fun!A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ &quot;sitemap.xml&quot; | relative_url }}) available for digesting as well.
+
+&lt;h2&gt;Pages&lt;/h2&gt;
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
+
+&lt;h2&gt;Posts&lt;/h2&gt;
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% capture written_label %}&apos;None&apos;{% endcapture %}
+
+{% for collection in site.collections %}
+{% unless collection.output == false or collection.label == &quot;posts&quot; %}
+  {% capture label %}{{ collection.label }}{% endcapture %}
+  {% if label != written_label %}
+  &lt;h2&gt;{{ label }}&lt;/h2&gt;
+  {% capture written_label %}{{ label }}{% endcapture %}
+  {% endif %}
+{% endunless %}
+{% for post in collection.docs %}
+  {% unless collection.output == false or collection.label == &quot;posts&quot; %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endfor %}{% include feature_row id=&quot;intro&quot; type=&quot;center&quot; %}
+
+{% include feature_row %}
+
+{% include feature_row id=&quot;feature_row2&quot; type=&quot;left&quot; %}
+
+{% include feature_row id=&quot;feature_row3&quot; type=&quot;right&quot; %}
+
+{% include feature_row id=&quot;feature_row4&quot; type=&quot;center&quot; %}## Privacy Policy
+
+The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+
+First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+
+### Log Files
+
+Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+
+* Internet Protocol addresses (IP)
+* Types of browser
+* Internet Service Provider (ISP)
+* Date and time stamp
+* Referring and exit pages
+* Number of clicks
+
+All of this information is not linked to anything that is personally identifiable.
+
+### Cookies and Web Beacons
+
+When you visit this site &quot;convenience&quot; cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+
+If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers&apos; websites.
+
+#### Google Analytics
+
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+
+#### Google Adsense
+
+Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&amp;answer=48182).
+
+## Disclosure Policy
+
+I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I&apos;ll get a percentage of that sale.
+
+Currently I&apos;m an affiliate for Amazon and Google Adsense.
+
+What this means for you:
+
+* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+* I do not and will not recommend a product just for the sake of making money.
+* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
+* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
+
+Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.@charset &quot;utf-8&quot;;
+
+@import &quot;minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: &apos;default&apos; }}&quot;; // skin
+@import &quot;minimal-mistakes&quot;; // main partialsvar idx = lunr(function () {
+  this.field(&apos;title&apos;)
+  this.field(&apos;excerpt&apos;)
+  this.field(&apos;categories&apos;)
+  this.field(&apos;tags&apos;)
+  this.ref(&apos;id&apos;)
+
+  this.pipeline.remove(lunr.trimmer)
+
+  for (var item in store) {
+    this.add({
+      title: store[item].title,
+      excerpt: store[item].excerpt,
+      categories: store[item].categories,
+      tags: store[item].tags,
+      id: item
+    })
+  }
+});
+
+$(document).ready(function() {
+  $(&apos;input#search&apos;).on(&apos;keyup&apos;, function () {
+    var resultdiv = $(&apos;#results&apos;);
+    var query = $(this).val().toLowerCase();
+    var result =
+      idx.query(function (q) {
+        query.split(lunr.tokenizer.separator).forEach(function (term) {
+          q.term(term, { boost: 100 })
+          if(query.lastIndexOf(&quot; &quot;) != query.length-1){
+            q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+          }
+          if (term != &quot;&quot;){
+            q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })
+          }
+        })
+      });
+    resultdiv.empty();
+    resultdiv.prepend(&apos;&lt;p class=&quot;results__found&quot;&gt;&apos;+result.length+&apos; {{ site.data.ui-text[site.locale].results_found | default: &quot;Result(s) found&quot; }}&lt;/p&gt;&apos;);
+    for (var item in result) {
+      var ref = result[item].ref;
+      if(store[ref].teaser){
+        var searchitem =
+          &apos;&lt;div class=&quot;list__item&quot;&gt;&apos;+
+            &apos;&lt;article class=&quot;archive__item&quot; itemscope itemtype=&quot;https://schema.org/CreativeWork&quot;&gt;&apos;+
+              &apos;&lt;h2 class=&quot;archive__item-title&quot; itemprop=&quot;headline&quot;&gt;&apos;+
+                &apos;&lt;a href=&quot;&apos;+store[ref].url+&apos;&quot; rel=&quot;permalink&quot;&gt;&apos;+store[ref].title+&apos;&lt;/a&gt;&apos;+
+              &apos;&lt;/h2&gt;&apos;+
+              &apos;&lt;div class=&quot;archive__item-teaser&quot;&gt;&apos;+
+                &apos;&lt;img src=&quot;&apos;+store[ref].teaser+&apos;&quot; alt=&quot;&quot;&gt;&apos;+
+              &apos;&lt;/div&gt;&apos;+
+              &apos;&lt;p class=&quot;archive__item-excerpt&quot; itemprop=&quot;description&quot;&gt;&apos;+store[ref].excerpt.split(&quot; &quot;).splice(0,20).join(&quot; &quot;)+&apos;...&lt;/p&gt;&apos;+
+            &apos;&lt;/article&gt;&apos;+
+          &apos;&lt;/div&gt;&apos;;
+      }
+      else{
+    	  var searchitem =
+          &apos;&lt;div class=&quot;list__item&quot;&gt;&apos;+
+            &apos;&lt;article class=&quot;archive__item&quot; itemscope itemtype=&quot;https://schema.org/CreativeWork&quot;&gt;&apos;+
+              &apos;&lt;h2 class=&quot;archive__item-title&quot; itemprop=&quot;headline&quot;&gt;&apos;+
+                &apos;&lt;a href=&quot;&apos;+store[ref].url+&apos;&quot; rel=&quot;permalink&quot;&gt;&apos;+store[ref].title+&apos;&lt;/a&gt;&apos;+
+              &apos;&lt;/h2&gt;&apos;+
+              &apos;&lt;p class=&quot;archive__item-excerpt&quot; itemprop=&quot;description&quot;&gt;&apos;+store[ref].excerpt.split(&quot; &quot;).splice(0,20).join(&quot; &quot;)+&apos;...&lt;/p&gt;&apos;+
+            &apos;&lt;/article&gt;&apos;+
+          &apos;&lt;/div&gt;&apos;;
+      }
+      resultdiv.append(searchitem);
+    }
+  });
+});
+step1list = new Array();
+step1list[&quot;ΦΑΓΙΑ&quot;] = &quot;ΦΑ&quot;;
+step1list[&quot;ΦΑΓΙΟΥ&quot;] = &quot;ΦΑ&quot;;
+step1list[&quot;ΦΑΓΙΩΝ&quot;] = &quot;ΦΑ&quot;;
+step1list[&quot;ΣΚΑΓΙΑ&quot;] = &quot;ΣΚΑ&quot;;
+step1list[&quot;ΣΚΑΓΙΟΥ&quot;] = &quot;ΣΚΑ&quot;;
+step1list[&quot;ΣΚΑΓΙΩΝ&quot;] = &quot;ΣΚΑ&quot;;
+step1list[&quot;ΟΛΟΓΙΟΥ&quot;] = &quot;ΟΛΟ&quot;;
+step1list[&quot;ΟΛΟΓΙΑ&quot;] = &quot;ΟΛΟ&quot;;
+step1list[&quot;ΟΛΟΓΙΩΝ&quot;] = &quot;ΟΛΟ&quot;;
+step1list[&quot;ΣΟΓΙΟΥ&quot;] = &quot;ΣΟ&quot;;
+step1list[&quot;ΣΟΓΙΑ&quot;] = &quot;ΣΟ&quot;;
+step1list[&quot;ΣΟΓΙΩΝ&quot;] = &quot;ΣΟ&quot;;
+step1list[&quot;ΤΑΤΟΓΙΑ&quot;] = &quot;ΤΑΤΟ&quot;;
+step1list[&quot;ΤΑΤΟΓΙΟΥ&quot;] = &quot;ΤΑΤΟ&quot;;
+step1list[&quot;ΤΑΤΟΓΙΩΝ&quot;] = &quot;ΤΑΤΟ&quot;;
+step1list[&quot;ΚΡΕΑΣ&quot;] = &quot;ΚΡΕ&quot;;
+step1list[&quot;ΚΡΕΑΤΟΣ&quot;] = &quot;ΚΡΕ&quot;;
+step1list[&quot;ΚΡΕΑΤΑ&quot;] = &quot;ΚΡΕ&quot;;
+step1list[&quot;ΚΡΕΑΤΩΝ&quot;] = &quot;ΚΡΕ&quot;;
+step1list[&quot;ΠΕΡΑΣ&quot;] = &quot;ΠΕΡ&quot;;
+step1list[&quot;ΠΕΡΑΤΟΣ&quot;] = &quot;ΠΕΡ&quot;;
+step1list[&quot;ΠΕΡΑΤΑ&quot;] = &quot;ΠΕΡ&quot;;
+step1list[&quot;ΠΕΡΑΤΩΝ&quot;] = &quot;ΠΕΡ&quot;;
+step1list[&quot;ΤΕΡΑΣ&quot;] = &quot;ΤΕΡ&quot;;
+step1list[&quot;ΤΕΡΑΤΟΣ&quot;] = &quot;ΤΕΡ&quot;;
+step1list[&quot;ΤΕΡΑΤΑ&quot;] = &quot;ΤΕΡ&quot;;
+step1list[&quot;ΤΕΡΑΤΩΝ&quot;] = &quot;ΤΕΡ&quot;;
+step1list[&quot;ΦΩΣ&quot;] = &quot;ΦΩ&quot;;
+step1list[&quot;ΦΩΤΟΣ&quot;] = &quot;ΦΩ&quot;;
+step1list[&quot;ΦΩΤΑ&quot;] = &quot;ΦΩ&quot;;
+step1list[&quot;ΦΩΤΩΝ&quot;] = &quot;ΦΩ&quot;;
+step1list[&quot;ΚΑΘΕΣΤΩΣ&quot;] = &quot;ΚΑΘΕΣΤ&quot;;
+step1list[&quot;ΚΑΘΕΣΤΩΤΟΣ&quot;] = &quot;ΚΑΘΕΣΤ&quot;;
+step1list[&quot;ΚΑΘΕΣΤΩΤΑ&quot;] = &quot;ΚΑΘΕΣΤ&quot;;
+step1list[&quot;ΚΑΘΕΣΤΩΤΩΝ&quot;] = &quot;ΚΑΘΕΣΤ&quot;;
+step1list[&quot;ΓΕΓΟΝΟΣ&quot;] = &quot;ΓΕΓΟΝ&quot;;
+step1list[&quot;ΓΕΓΟΝΟΤΟΣ&quot;] = &quot;ΓΕΓΟΝ&quot;;
+step1list[&quot;ΓΕΓΟΝΟΤΑ&quot;] = &quot;ΓΕΓΟΝ&quot;;
+step1list[&quot;ΓΕΓΟΝΟΤΩΝ&quot;] = &quot;ΓΕΓΟΝ&quot;;
+
+v = &quot;[ΑΕΗΙΟΥΩ]&quot;;
+v2 = &quot;[ΑΕΗΙΟΩ]&quot;
+
+function stemWord(w) {
+  var stem;
+  var suffix;
+  var firstch;
+  var origword = w;
+  test1 = new Boolean(true);
+
+  if(w.length &lt; 4) {
+    return w;
+  }
+
+  var re;
+  var re2;
+  var re3;
+  var re4;
+
+  re = /(.*)(ΦΑΓΙΑ|ΦΑΓΙΟΥ|ΦΑΓΙΩΝ|ΣΚΑΓΙΑ|ΣΚΑΓΙΟΥ|ΣΚΑΓΙΩΝ|ΟΛΟΓΙΟΥ|ΟΛΟΓΙΑ|ΟΛΟΓΙΩΝ|ΣΟΓΙΟΥ|ΣΟΓΙΑ|ΣΟΓΙΩΝ|ΤΑΤΟΓΙΑ|ΤΑΤΟΓΙΟΥ|ΤΑΤΟΓΙΩΝ|ΚΡΕΑΣ|ΚΡΕΑΤΟΣ|ΚΡΕΑΤΑ|ΚΡΕΑΤΩΝ|ΠΕΡΑΣ|ΠΕΡΑΤΟΣ|ΠΕΡΑΤΑ|ΠΕΡΑΤΩΝ|ΤΕΡΑΣ|ΤΕΡΑΤΟΣ|ΤΕΡΑΤΑ|ΤΕΡΑΤΩΝ|ΦΩΣ|ΦΩΤΟΣ|ΦΩΤΑ|ΦΩΤΩΝ|ΚΑΘΕΣΤΩΣ|ΚΑΘΕΣΤΩΤΟΣ|ΚΑΘΕΣΤΩΤΑ|ΚΑΘΕΣΤΩΤΩΝ|ΓΕΓΟΝΟΣ|ΓΕΓΟΝΟΤΟΣ|ΓΕΓΟΝΟΤΑ|ΓΕΓΟΝΟΤΩΝ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    suffix = fp[2];
+    w = stem + step1list[suffix];
+    test1 = false;
+  }
+
+  re = /^(.+?)(ΑΔΕΣ|ΑΔΩΝ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+
+    reg1 = /(ΟΚ|ΜΑΜ|ΜΑΝ|ΜΠΑΜΠ|ΠΑΤΕΡ|ΓΙΑΓΙ|ΝΤΑΝΤ|ΚΥΡ|ΘΕΙ|ΠΕΘΕΡ)$/;
+
+    if(!(reg1.test(w))) {
+      w = w + &quot;ΑΔ&quot;;
+    }
+  }
+
+  re2 = /^(.+?)(ΕΔΕΣ|ΕΔΩΝ)$/;
+
+  if(re2.test(w)) {
+    var fp = re2.exec(w);
+    stem = fp[1];
+    w = stem;
+
+    exept2 = /(ΟΠ|ΙΠ|ΕΜΠ|ΥΠ|ΓΗΠ|ΔΑΠ|ΚΡΑΣΠ|ΜΙΛ)$/;
+
+    if(exept2.test(w)) {
+      w = w + &quot;ΕΔ&quot;;
+    }
+  }
+
+  re3 = /^(.+?)(ΟΥΔΕΣ|ΟΥΔΩΝ)$/;
+
+  if(re3.test(w)) {
+    var fp = re3.exec(w);
+    stem = fp[1];
+    w = stem;
+
+    exept3 = /(ΑΡΚ|ΚΑΛΙΑΚ|ΠΕΤΑΛ|ΛΙΧ|ΠΛΕΞ|ΣΚ|Σ|ΦΛ|ΦΡ|ΒΕΛ|ΛΟΥΛ|ΧΝ|ΣΠ|ΤΡΑΓ|ΦΕ)$/;
+
+    if(exept3.test(w)) {
+      w = w + &quot;ΟΥΔ&quot;;
+    }
+  }
+
+  re4 = /^(.+?)(ΕΩΣ|ΕΩΝ)$/;
+
+  if(re4.test(w)) {
+    var fp = re4.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept4 = /^(Θ|Δ|ΕΛ|ΓΑΛ|Ν|Π|ΙΔ|ΠΑΡ)$/;
+
+    if(exept4.test(w)) {
+      w = w + &quot;Ε&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΙΑ|ΙΟΥ|ΙΩΝ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    re2 = new RegExp(v + &quot;$&quot;);
+    test1 = false;
+
+    if(re2.test(w)) {
+      w = stem + &quot;Ι&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΙΚΑ|ΙΚΟ|ΙΚΟΥ|ΙΚΩΝ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    re2 = new RegExp(v + &quot;$&quot;);
+    exept5 = /^(ΑΛ|ΑΔ|ΕΝΔ|ΑΜΑΝ|ΑΜΜΟΧΑΛ|ΗΘ|ΑΝΗΘ|ΑΝΤΙΔ|ΦΥΣ|ΒΡΩΜ|ΓΕΡ|ΕΞΩΔ|ΚΑΛΠ|ΚΑΛΛΙΝ|ΚΑΤΑΔ|ΜΟΥΛ|ΜΠΑΝ|ΜΠΑΓΙΑΤ|ΜΠΟΛ|ΜΠΟΣ|ΝΙΤ|ΞΙΚ|ΣΥΝΟΜΗΛ|ΠΕΤΣ|ΠΙΤΣ|ΠΙΚΑΝΤ|ΠΛΙΑΤΣ|ΠΟΣΤΕΛΝ|ΠΡΩΤΟΔ|ΣΕΡΤ|ΣΥΝΑΔ|ΤΣΑΜ|ΥΠΟΔ|ΦΙΛΟΝ|ΦΥΛΟΔ|ΧΑΣ)$/;
+
+    if((exept5.test(w)) || (re2.test(w))) {
+      w = w + &quot;ΙΚ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΑΜΕ)$/;
+  re2 = /^(.+?)(ΑΓΑΜΕ|ΗΣΑΜΕ|ΟΥΣΑΜΕ|ΗΚΑΜΕ|ΗΘΗΚΑΜΕ)$/;
+  if(w == &quot;ΑΓΑΜΕ&quot;) {
+    w = &quot;ΑΓΑΜ&quot;;
+  }
+
+  if(re2.test(w)) {
+    var fp = re2.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+  }
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept6 = /^(ΑΝΑΠ|ΑΠΟΘ|ΑΠΟΚ|ΑΠΟΣΤ|ΒΟΥΒ|ΞΕΘ|ΟΥΛ|ΠΕΘ|ΠΙΚΡ|ΠΟΤ|ΣΙΧ|Χ)$/;
+
+    if(exept6.test(w)) {
+      w = w + &quot;ΑΜ&quot;;
+    }
+  }
+
+  re2 = /^(.+?)(ΑΝΕ)$/;
+  re3 = /^(.+?)(ΑΓΑΝΕ|ΗΣΑΝΕ|ΟΥΣΑΝΕ|ΙΟΝΤΑΝΕ|ΙΟΤΑΝΕ|ΙΟΥΝΤΑΝΕ|ΟΝΤΑΝΕ|ΟΤΑΝΕ|ΟΥΝΤΑΝΕ|ΗΚΑΝΕ|ΗΘΗΚΑΝΕ)$/;
+
+  if(re3.test(w)) {
+    var fp = re3.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    re3 = /^(ΤΡ|ΤΣ)$/;
+
+    if(re3.test(w)) {
+      w = w + &quot;ΑΓΑΝ&quot;;
+    }
+  }
+
+  if(re2.test(w)) {
+    var fp = re2.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    re2 = new RegExp(v2 + &quot;$&quot;);
+    exept7 = /^(ΒΕΤΕΡ|ΒΟΥΛΚ|ΒΡΑΧΜ|Γ|ΔΡΑΔΟΥΜ|Θ|ΚΑΛΠΟΥΖ|ΚΑΣΤΕΛ|ΚΟΡΜΟΡ|ΛΑΟΠΛ|ΜΩΑΜΕΘ|Μ|ΜΟΥΣΟΥΛΜ|Ν|ΟΥΛ|Π|ΠΕΛΕΚ|ΠΛ|ΠΟΛΙΣ|ΠΟΡΤΟΛ|ΣΑΡΑΚΑΤΣ|ΣΟΥΛΤ|ΤΣΑΡΛΑΤ|ΟΡΦ|ΤΣΙΓΓ|ΤΣΟΠ|ΦΩΤΟΣΤΕΦ|Χ|ΨΥΧΟΠΛ|ΑΓ|ΟΡΦ|ΓΑΛ|ΓΕΡ|ΔΕΚ|ΔΙΠΛ|ΑΜΕΡΙΚΑΝ|ΟΥΡ|ΠΙΘ|ΠΟΥΡΙΤ|Σ|ΖΩΝΤ|ΙΚ|ΚΑΣΤ|ΚΟΠ|ΛΙΧ|ΛΟΥΘΗΡ|ΜΑΙΝΤ|ΜΕΛ|ΣΙΓ|ΣΠ|ΣΤΕΓ|ΤΡΑΓ|ΤΣΑΓ|Φ|ΕΡ|ΑΔΑΠ|ΑΘΙΓΓ|ΑΜΗΧ|ΑΝΙΚ|ΑΝΟΡΓ|ΑΠΗΓ|ΑΠΙΘ|ΑΤΣΙΓΓ|ΒΑΣ|ΒΑΣΚ|ΒΑΘΥΓΑΛ|ΒΙΟΜΗΧ|ΒΡΑΧΥΚ|ΔΙΑΤ|ΔΙΑΦ|ΕΝΟΡΓ|ΘΥΣ|ΚΑΠΝΟΒΙΟΜΗΧ|ΚΑΤΑΓΑΛ|ΚΛΙΒ|ΚΟΙΛΑΡΦ|ΛΙΒ|ΜΕΓΛΟΒΙΟΜΗΧ|ΜΙΚΡΟΒΙΟΜΗΧ|ΝΤΑΒ|ΞΗΡΟΚΛΙΒ|ΟΛΙΓΟΔΑΜ|ΟΛΟΓΑΛ|ΠΕΝΤΑΡΦ|ΠΕΡΗΦ|ΠΕΡΙΤΡ|ΠΛΑΤ|ΠΟΛΥΔΑΠ|ΠΟΛΥΜΗΧ|ΣΤΕΦ|ΤΑΒ|ΤΕΤ|ΥΠΕΡΗΦ|ΥΠΟΚΟΠ|ΧΑΜΗΛΟΔΑΠ|ΨΗΛΟΤΑΒ)$/;
+
+    if((re2.test(w)) || (exept7.test(w))) {
+      w = w + &quot;ΑΝ&quot;;
+    }
+  }
+
+  re3 = /^(.+?)(ΕΤΕ)$/;
+  re4 = /^(.+?)(ΗΣΕΤΕ)$/;
+
+  if(re4.test(w)) {
+    var fp = re4.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+  }
+
+  if(re3.test(w)) {
+    var fp = re3.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    re3 = new RegExp(v2 + &quot;$&quot;);
+    exept8 = /(ΟΔ|ΑΙΡ|ΦΟΡ|ΤΑΘ|ΔΙΑΘ|ΣΧ|ΕΝΔ|ΕΥΡ|ΤΙΘ|ΥΠΕΡΘ|ΡΑΘ|ΕΝΘ|ΡΟΘ|ΣΘ|ΠΥΡ|ΑΙΝ|ΣΥΝΔ|ΣΥΝ|ΣΥΝΘ|ΧΩΡ|ΠΟΝ|ΒΡ|ΚΑΘ|ΕΥΘ|ΕΚΘ|ΝΕΤ|ΡΟΝ|ΑΡΚ|ΒΑΡ|ΒΟΛ|ΩΦΕΛ)$/;
+    exept9 = /^(ΑΒΑΡ|ΒΕΝ|ΕΝΑΡ|ΑΒΡ|ΑΔ|ΑΘ|ΑΝ|ΑΠΛ|ΒΑΡΟΝ|ΝΤΡ|ΣΚ|ΚΟΠ|ΜΠΟΡ|ΝΙΦ|ΠΑΓ|ΠΑΡΑΚΑΛ|ΣΕΡΠ|ΣΚΕΛ|ΣΥΡΦ|ΤΟΚ|Υ|Δ|ΕΜ|ΘΑΡΡ|Θ)$/;
+
+    if((re3.test(w)) || (exept8.test(w)) || (exept9.test(w))) {
+      w = w + &quot;ΕΤ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΟΝΤΑΣ|ΩΝΤΑΣ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept10 = /^(ΑΡΧ)$/;
+    exept11 = /(ΚΡΕ)$/;
+    if(exept10.test(w)) {
+      w = w + &quot;ΟΝΤ&quot;;
+    }
+    if(exept11.test(w)) {
+      w = w + &quot;ΩΝΤ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΟΜΑΣΤΕ|ΙΟΜΑΣΤΕ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept11 = /^(ΟΝ)$/;
+
+    if(exept11.test(w)) {
+      w = w + &quot;ΟΜΑΣΤ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΕΣΤΕ)$/;
+  re2 = /^(.+?)(ΙΕΣΤΕ)$/;
+
+  if(re2.test(w)) {
+    var fp = re2.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    re2 = /^(Π|ΑΠ|ΣΥΜΠ|ΑΣΥΜΠ|ΑΚΑΤΑΠ|ΑΜΕΤΑΜΦ)$/;
+
+    if(re2.test(w)) {
+      w = w + &quot;ΙΕΣΤ&quot;;
+    }
+  }
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept12 = /^(ΑΛ|ΑΡ|ΕΚΤΕΛ|Ζ|Μ|Ξ|ΠΑΡΑΚΑΛ|ΑΡ|ΠΡΟ|ΝΙΣ)$/;
+
+    if(exept12.test(w)) {
+      w = w + &quot;ΕΣΤ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΗΚΑ|ΗΚΕΣ|ΗΚΕ)$/;
+  re2 = /^(.+?)(ΗΘΗΚΑ|ΗΘΗΚΕΣ|ΗΘΗΚΕ)$/;
+
+  if(re2.test(w)) {
+    var fp = re2.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+  }
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept13 = /(ΣΚΩΛ|ΣΚΟΥΛ|ΝΑΡΘ|ΣΦ|ΟΘ|ΠΙΘ)$/;
+    exept14 = /^(ΔΙΑΘ|Θ|ΠΑΡΑΚΑΤΑΘ|ΠΡΟΣΘ|ΣΥΝΘ|)$/;
+
+    if((exept13.test(w)) || (exept14.test(w))) {
+      w = w + &quot;ΗΚ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΟΥΣΑ|ΟΥΣΕΣ|ΟΥΣΕ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept15 = /^(ΦΑΡΜΑΚ|ΧΑΔ|ΑΓΚ|ΑΝΑΡΡ|ΒΡΟΜ|ΕΚΛΙΠ|ΛΑΜΠΙΔ|ΛΕΧ|Μ|ΠΑΤ|Ρ|Λ|ΜΕΔ|ΜΕΣΑΖ|ΥΠΟΤΕΙΝ|ΑΜ|ΑΙΘ|ΑΝΗΚ|ΔΕΣΠΟΖ|ΕΝΔΙΑΦΕΡ|ΔΕ|ΔΕΥΤΕΡΕΥ|ΚΑΘΑΡΕΥ|ΠΛΕ|ΤΣΑ)$/;
+    exept16 = /(ΠΟΔΑΡ|ΒΛΕΠ|ΠΑΝΤΑΧ|ΦΡΥΔ|ΜΑΝΤΙΛ|ΜΑΛΛ|ΚΥΜΑΤ|ΛΑΧ|ΛΗΓ|ΦΑΓ|ΟΜ|ΠΡΩΤ)$/;
+
+    if((exept15.test(w)) || (exept16.test(w))) {
+      w = w + &quot;ΟΥΣ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΑΓΑ|ΑΓΕΣ|ΑΓΕ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept17 = /^(ΨΟΦ|ΝΑΥΛΟΧ)$/;
+    exept20 = /(ΚΟΛΛ)$/;
+    exept18 = /^(ΑΒΑΣΤ|ΠΟΛΥΦ|ΑΔΗΦ|ΠΑΜΦ|Ρ|ΑΣΠ|ΑΦ|ΑΜΑΛ|ΑΜΑΛΛΙ|ΑΝΥΣΤ|ΑΠΕΡ|ΑΣΠΑΡ|ΑΧΑΡ|ΔΕΡΒΕΝ|ΔΡΟΣΟΠ|ΞΕΦ|ΝΕΟΠ|ΝΟΜΟΤ|ΟΛΟΠ|ΟΜΟΤ|ΠΡΟΣΤ|ΠΡΟΣΩΠΟΠ|ΣΥΜΠ|ΣΥΝΤ|Τ|ΥΠΟΤ|ΧΑΡ|ΑΕΙΠ|ΑΙΜΟΣΤ|ΑΝΥΠ|ΑΠΟΤ|ΑΡΤΙΠ|ΔΙΑΤ|ΕΝ|ΕΠΙΤ|ΚΡΟΚΑΛΟΠ|ΣΙΔΗΡΟΠ|Λ|ΝΑΥ|ΟΥΛΑΜ|ΟΥΡ|Π|ΤΡ|Μ)$/;
+    exept19 = /(ΟΦ|ΠΕΛ|ΧΟΡΤ|ΛΛ|ΣΦ|ΡΠ|ΦΡ|ΠΡ|ΛΟΧ|ΣΜΗΝ)$/;
+
+    if(((exept18.test(w)) || (exept19.test(w))) &amp;&amp; !((exept17.test(w)) || (exept20.test(w)))) {
+      w = w + &quot;ΑΓ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΗΣΕ|ΗΣΟΥ|ΗΣΑ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept21 = /^(Ν|ΧΕΡΣΟΝ|ΔΩΔΕΚΑΝ|ΕΡΗΜΟΝ|ΜΕΓΑΛΟΝ|ΕΠΤΑΝ)$/;
+
+    if(exept21.test(w)) {
+      w = w + &quot;ΗΣ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΗΣΤΕ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept22 = /^(ΑΣΒ|ΣΒ|ΑΧΡ|ΧΡ|ΑΠΛ|ΑΕΙΜΝ|ΔΥΣΧΡ|ΕΥΧΡ|ΚΟΙΝΟΧΡ|ΠΑΛΙΜΨ)$/;
+
+    if(exept22.test(w)) {
+      w = w + &quot;ΗΣΤ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΟΥΝΕ|ΗΣΟΥΝΕ|ΗΘΟΥΝΕ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept23 = /^(Ν|Ρ|ΣΠΙ|ΣΤΡΑΒΟΜΟΥΤΣ|ΚΑΚΟΜΟΥΤΣ|ΕΞΩΝ)$/;
+
+    if(exept23.test(w)) {
+      w = w + &quot;ΟΥΝ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΟΥΜΕ|ΗΣΟΥΜΕ|ΗΘΟΥΜΕ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+    test1 = false;
+
+    exept24 = /^(ΠΑΡΑΣΟΥΣ|Φ|Χ|ΩΡΙΟΠΛ|ΑΖ|ΑΛΛΟΣΟΥΣ|ΑΣΟΥΣ)$/;
+
+    if(exept24.test(w)) {
+      w = w + &quot;ΟΥΜ&quot;;
+    }
+  }
+
+  re = /^(.+?)(ΜΑΤΑ|ΜΑΤΩΝ|ΜΑΤΟΣ)$/;
+  re2 = /^(.+?)(Α|ΑΓΑΤΕ|ΑΓΑΝ|ΑΕΙ|ΑΜΑΙ|ΑΝ|ΑΣ|ΑΣΑΙ|ΑΤΑΙ|ΑΩ|Ε|ΕΙ|ΕΙΣ|ΕΙΤΕ|ΕΣΑΙ|ΕΣ|ΕΤΑΙ|Ι|ΙΕΜΑΙ|ΙΕΜΑΣΤΕ|ΙΕΤΑΙ|ΙΕΣΑΙ|ΙΕΣΑΣΤΕ|ΙΟΜΑΣΤΑΝ|ΙΟΜΟΥΝ|ΙΟΜΟΥΝΑ|ΙΟΝΤΑΝ|ΙΟΝΤΟΥΣΑΝ|ΙΟΣΑΣΤΑΝ|ΙΟΣΑΣΤΕ|ΙΟΣΟΥΝ|ΙΟΣΟΥΝΑ|ΙΟΤΑΝ|ΙΟΥΜΑ|ΙΟΥΜΑΣΤΕ|ΙΟΥΝΤΑΙ|ΙΟΥΝΤΑΝ|Η|ΗΔΕΣ|ΗΔΩΝ|ΗΘΕΙ|ΗΘΕΙΣ|ΗΘΕΙΤΕ|ΗΘΗΚΑΤΕ|ΗΘΗΚΑΝ|ΗΘΟΥΝ|ΗΘΩ|ΗΚΑΤΕ|ΗΚΑΝ|ΗΣ|ΗΣΑΝ|ΗΣΑΤΕ|ΗΣΕΙ|ΗΣΕΣ|ΗΣΟΥΝ|ΗΣΩ|Ο|ΟΙ|ΟΜΑΙ|ΟΜΑΣΤΑΝ|ΟΜΟΥΝ|ΟΜΟΥΝΑ|ΟΝΤΑΙ|ΟΝΤΑΝ|ΟΝΤΟΥΣΑΝ|ΟΣ|ΟΣΑΣΤΑΝ|ΟΣΑΣΤΕ|ΟΣΟΥΝ|ΟΣΟΥΝΑ|ΟΤΑΝ|ΟΥ|ΟΥΜΑΙ|ΟΥΜΑΣΤΕ|ΟΥΝ|ΟΥΝΤΑΙ|ΟΥΝΤΑΝ|ΟΥΣ|ΟΥΣΑΝ|ΟΥΣΑΤΕ|Υ|ΥΣ|Ω|ΩΝ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem + &quot;ΜΑ&quot;;
+  }
+
+  if((re2.test(w)) &amp;&amp; (test1)) {
+    var fp = re2.exec(w);
+    stem = fp[1];
+    w = stem;
+
+  }
+
+  re = /^(.+?)(ΕΣΤΕΡ|ΕΣΤΑΤ|ΟΤΕΡ|ΟΤΑΤ|ΥΤΕΡ|ΥΤΑΤ|ΩΤΕΡ|ΩΤΑΤ)$/;
+
+  if(re.test(w)) {
+    var fp = re.exec(w);
+    stem = fp[1];
+    w = stem;
+  }
+
+  return w;
+};
+
+var greekStemmer = function (token) {
+  return token.update(function (word) {
+    return stemWord(word);
+  })
+}
+
+var idx = lunr(function () {
+  this.field(&apos;title&apos;)
+  this.field(&apos;excerpt&apos;)
+  this.field(&apos;categories&apos;)
+  this.field(&apos;tags&apos;)
+  this.ref(&apos;id&apos;)
+
+  this.pipeline.remove(lunr.trimmer)
+  this.pipeline.add(greekStemmer)
+  this.pipeline.remove(lunr.stemmer)
+
+  for (var item in store) {
+    this.add({
+      title: store[item].title,
+      excerpt: store[item].excerpt,
+      categories: store[item].categories,
+      tags: store[item].tags,
+      id: item
+    })
+  }
+});
+
+$(document).ready(function() {
+  $(&apos;input#search&apos;).on(&apos;keyup&apos;, function () {
+    var resultdiv = $(&apos;#results&apos;);
+    var query = $(this).val().toLowerCase();
+    var result =
+      idx.query(function (q) {
+        query.split(lunr.tokenizer.separator).forEach(function (term) {
+          q.term(term, { boost: 100 })
+          if(query.lastIndexOf(&quot; &quot;) != query.length-1){
+            q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+          }
+          if (term != &quot;&quot;){
+            q.term(term, { usePipeline: false, editDistance: 1, boost: 1 })
+          }
+        })
+      });
+    resultdiv.empty();
+    resultdiv.prepend(&apos;&lt;p class=&quot;results__found&quot;&gt;&apos;+result.length+&apos; {{ site.data.ui-text[site.locale].results_found | default: &quot;Result(s) found&quot; }}&lt;/p&gt;&apos;);
+    for (var item in result) {
+      var ref = result[item].ref;
+      if(store[ref].teaser){
+        var searchitem =
+          &apos;&lt;div class=&quot;list__item&quot;&gt;&apos;+
+            &apos;&lt;article class=&quot;archive__item&quot; itemscope itemtype=&quot;https://schema.org/CreativeWork&quot;&gt;&apos;+
+              &apos;&lt;h2 class=&quot;archive__item-title&quot; itemprop=&quot;headline&quot;&gt;&apos;+
+                &apos;&lt;a href=&quot;&apos;+store[ref].url+&apos;&quot; rel=&quot;permalink&quot;&gt;&apos;+store[ref].title+&apos;&lt;/a&gt;&apos;+
+              &apos;&lt;/h2&gt;&apos;+
+              &apos;&lt;div class=&quot;archive__item-teaser&quot;&gt;&apos;+
+                &apos;&lt;img src=&quot;&apos;+store[ref].teaser+&apos;&quot; alt=&quot;&quot;&gt;&apos;+
+              &apos;&lt;/div&gt;&apos;+
+              &apos;&lt;p class=&quot;archive__item-excerpt&quot; itemprop=&quot;description&quot;&gt;&apos;+store[ref].excerpt.split(&quot; &quot;).splice(0,20).join(&quot; &quot;)+&apos;...&lt;/p&gt;&apos;+
+            &apos;&lt;/article&gt;&apos;+
+          &apos;&lt;/div&gt;&apos;;
+      }
+      else{
+    	  var searchitem =
+          &apos;&lt;div class=&quot;list__item&quot;&gt;&apos;+
+            &apos;&lt;article class=&quot;archive__item&quot; itemscope itemtype=&quot;https://schema.org/CreativeWork&quot;&gt;&apos;+
+              &apos;&lt;h2 class=&quot;archive__item-title&quot; itemprop=&quot;headline&quot;&gt;&apos;+
+                &apos;&lt;a href=&quot;&apos;+store[ref].url+&apos;&quot; rel=&quot;permalink&quot;&gt;&apos;+store[ref].title+&apos;&lt;/a&gt;&apos;+
+              &apos;&lt;/h2&gt;&apos;+
+              &apos;&lt;p class=&quot;archive__item-excerpt&quot; itemprop=&quot;description&quot;&gt;&apos;+store[ref].excerpt.split(&quot; &quot;).splice(0,20).join(&quot; &quot;)+&apos;...&lt;/p&gt;&apos;+
+            &apos;&lt;/article&gt;&apos;+
+          &apos;&lt;/div&gt;&apos;;
+      }
+      resultdiv.append(searchitem);
+    }
+  });
+});
+var store = [
+  {%- for c in site.collections -%}
+    {%- if forloop.last -%}
+      {%- assign l = true -%}
+    {%- endif -%}
+    {%- assign docs = c.docs | where_exp:&apos;doc&apos;,&apos;doc.search != false&apos; -%}
+    {%- for doc in docs -%}
+      {%- if doc.header.teaser -%}
+        {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture -%}
+      {%- else -%}
+        {%- assign teaser = site.teaser -%}
+      {%- endif -%}
+      {
+        &quot;title&quot;: {{ doc.title | jsonify }},
+        &quot;excerpt&quot;:
+          {%- if site.search_full_content == true -%}
+            {{ doc.content | newline_to_br |
+              replace:&quot;&lt;br /&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/p&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h1&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h2&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h3&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h4&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h5&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h6&gt;&quot;, &quot; &quot;|
+            strip_html | strip_newlines | jsonify }},
+          {%- else -%}
+            {{ doc.content | newline_to_br |
+              replace:&quot;&lt;br /&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/p&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h1&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h2&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h3&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h4&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h5&gt;&quot;, &quot; &quot; |
+              replace:&quot;&lt;/h6&gt;&quot;, &quot; &quot;|
+            strip_html | strip_newlines | truncatewords: 50 | jsonify }},
+          {%- endif -%}
+        &quot;categories&quot;: {{ doc.categories | jsonify }},
+        &quot;tags&quot;: {{ doc.tags | jsonify }},
+        &quot;url&quot;: {{ doc.url | relative_url | jsonify }},
+        &quot;teaser&quot;: {{ teaser | relative_url | jsonify }}
+      }{%- unless forloop.last and l -%},{%- endunless -%}
+    {%- endfor -%}
+  {%- endfor -%}]
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+{% if page.xsl %}&lt;?xml-stylesheet type=&quot;text/xsl&quot; href=&quot;{{ &quot;/sitemap.xsl&quot; | absolute_url }}&quot;?&gt;
+{% endif %}&lt;urlset xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:schemaLocation=&quot;http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd&quot; xmlns=&quot;http://www.sitemaps.org/schemas/sitemap/0.9&quot;&gt;
+{% assign collections = site.collections | where_exp:&apos;collection&apos;,&apos;collection.output != false&apos; %}{% for collection in collections %}{% assign docs = collection.docs | where_exp:&apos;doc&apos;,&apos;doc.sitemap != false&apos; %}{% for doc in docs %}&lt;url&gt;
+&lt;loc&gt;{{ doc.url | replace:&apos;/index.html&apos;,&apos;/&apos; | absolute_url | xml_escape }}&lt;/loc&gt;
+{% if doc.last_modified_at or doc.date %}&lt;lastmod&gt;{{ doc.last_modified_at | default: doc.date | date_to_xmlschema }}&lt;/lastmod&gt;
+{% endif %}&lt;/url&gt;
+{% endfor %}{% endfor %}{% assign pages = site.html_pages | where_exp:&apos;doc&apos;,&apos;doc.sitemap != false&apos; | where_exp:&apos;doc&apos;,&apos;doc.url != &quot;/404.html&quot;&apos; %}{% for page in pages %}&lt;url&gt;
+&lt;loc&gt;{{ page.url | replace:&apos;/index.html&apos;,&apos;/&apos; | absolute_url | xml_escape }}&lt;/loc&gt;
+{% if page.last_modified_at %}&lt;lastmod&gt;{{ page.last_modified_at | date_to_xmlschema }}&lt;/lastmod&gt;
+{% endif %}&lt;/url&gt;
+{% endfor %}{% assign static_files = page.static_files | where_exp:&apos;page&apos;,&apos;page.sitemap != false&apos; | where_exp:&apos;page&apos;,&apos;page.name != &quot;404.html&quot;&apos; %}{% for file in static_files %}&lt;url&gt;
+&lt;loc&gt;{{ file.path | replace:&apos;/index.html&apos;,&apos;/&apos; | absolute_url | xml_escape }}&lt;/loc&gt;
+&lt;lastmod&gt;{{ file.modified_time | date_to_xmlschema }}&lt;/lastmod&gt;
+&lt;/url&gt;
+{% endfor %}&lt;/urlset&gt;
+Sitemap: {{ &quot;sitemap.xml&quot; | absolute_url }}
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;{% if page.xsl %}&lt;?xml-stylesheet type=&quot;text/xml&quot; href=&quot;{{ &apos;/feed.xslt.xml&apos; | absolute_url }}&quot;?&gt;{% endif %}&lt;feed xmlns=&quot;http://www.w3.org/2005/Atom&quot; {% if site.lang %}xml:lang=&quot;{{ site.lang }}&quot;{% endif %}&gt;&lt;generator uri=&quot;https://jekyllrb.com/&quot; version=&quot;{{ jekyll.version }}&quot;&gt;Jekyll&lt;/generator&gt;&lt;link href=&quot;{{ page.url | absolute_url }}&quot; rel=&quot;self&quot; type=&quot;application/atom+xml&quot; /&gt;&lt;link href=&quot;{{ &apos;/&apos; | absolute_url }}&quot; rel=&quot;alternate&quot; type=&quot;text/html&quot; {% if site.lang %}hreflang=&quot;{{ site.lang }}&quot; {% endif %}/&gt;&lt;updated&gt;{{ site.time | date_to_xmlschema }}&lt;/updated&gt;&lt;id&gt;{{ page.url | absolute_url | xml_escape }}&lt;/id&gt;{% assign title = site.title | default: site.name %}{% if page.collection != &quot;posts&quot; %}{% assign collection = page.collection | capitalize %}{% assign title = title | append: &quot; | &quot; | append: collection %}{% endif %}{% if page.category %}{% assign category = page.category | capitalize %}{% assign title = title | append: &quot; | &quot; | append: category %}{% endif %}{% if title %}&lt;title type=&quot;html&quot;&gt;{{ title | smartify | xml_escape }}&lt;/title&gt;{% endif %}{% if site.description %}&lt;subtitle&gt;{{ site.description | xml_escape }}&lt;/subtitle&gt;{% endif %}{% if site.author %}&lt;author&gt;&lt;name&gt;{{ site.author.name | default: site.author | xml_escape }}&lt;/name&gt;{% if site.author.email %}&lt;email&gt;{{ site.author.email | xml_escape }}&lt;/email&gt;{% endif %}{% if site.author.uri %}&lt;uri&gt;{{ site.author.uri | xml_escape }}&lt;/uri&gt;{% endif %}&lt;/author&gt;{% endif %}{% if page.tags %}{% assign posts = site.tags[page.tags] %}{% else %}{% assign posts = site[page.collection] %}{% endif %}{% if page.category %}{% assign posts = posts | where: &quot;category&quot;, page.category %}{% endif %}{% unless site.show_drafts %}{% assign posts = posts | where_exp: &quot;post&quot;, &quot;post.draft != true&quot; %}{% endunless %}{% assign posts = posts | sort: &quot;date&quot; | reverse %}{% assign posts_limit = site.feed.posts_limit | default: 10 %}{% for post in posts limit: posts_limit %}&lt;entry{% if post.lang %}{{&quot; &quot;}}xml:lang=&quot;{{ post.lang }}&quot;{% endif %}&gt;{% assign post_title = post.title | smartify | strip_html | normalize_whitespace | xml_escape %}&lt;title type=&quot;html&quot;&gt;{{ post_title }}&lt;/title&gt;&lt;link href=&quot;{{ post.url | absolute_url }}&quot; rel=&quot;alternate&quot; type=&quot;text/html&quot; title=&quot;{{ post_title }}&quot; /&gt;&lt;published&gt;{{ post.date | date_to_xmlschema }}&lt;/published&gt;&lt;updated&gt;{{ post.last_modified_at | default: post.date | date_to_xmlschema }}&lt;/updated&gt;&lt;id&gt;{{ post.id | absolute_url | xml_escape }}&lt;/id&gt;{% assign excerpt_only = post.feed.excerpt_only | default: site.feed.excerpt_only %}{% unless excerpt_only %}&lt;content type=&quot;html&quot; xml:base=&quot;{{ post.url | absolute_url | xml_escape }}&quot;&gt;{{ post.content | strip | xml_escape }}&lt;/content&gt;{% endunless %}{% assign post_author = post.author | default: post.authors[0] | default: site.author %}{% assign post_author = site.data.authors[post_author] | default: post_author %}{% assign post_author_email = post_author.email | default: nil %}{% assign post_author_uri = post_author.uri | default: nil %}{% assign post_author_name = post_author.name | default: post_author %}&lt;author&gt;&lt;name&gt;{{ post_author_name | default: &quot;&quot; | xml_escape }}&lt;/name&gt;{% if post_author_email %}&lt;email&gt;{{ post_author_email | xml_escape }}&lt;/email&gt;{% endif %}{% if post_author_uri %}&lt;uri&gt;{{ post_author_uri | xml_escape }}&lt;/uri&gt;{% endif %}&lt;/author&gt;{% if post.category %}&lt;category term=&quot;{{ post.category | xml_escape }}&quot; /&gt;{% elsif post.categories %}{% for category in post.categories %}&lt;category term=&quot;{{ category | xml_escape }}&quot; /&gt;{% endfor %}{% endif %}{% for tag in post.tags %}&lt;category term=&quot;{{ tag | xml_escape }}&quot; /&gt;{% endfor %}{% if post.excerpt and post.excerpt != empty %}&lt;summary type=&quot;html&quot;&gt;{{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}&lt;/summary&gt;{% endif %}{% assign post_image = post.image.path | default: post.image %}{% if post_image %}{% unless post_image contains &quot;://&quot; %}{% assign post_image = post_image | absolute_url %}{% endunless %}&lt;media:thumbnail xmlns:media=&quot;http://search.yahoo.com/mrss/&quot; url=&quot;{{ post_image | xml_escape }}&quot; /&gt;&lt;media:content medium=&quot;image&quot; url=&quot;{{ post_image | xml_escape }}&quot; xmlns:media=&quot;http://search.yahoo.com/mrss/&quot; /&gt;{% endif %}&lt;/entry&gt;{% endfor %}&lt;/feed&gt; metes todas las páginas en una página. Es un array de objetos--&gt;
+
+&lt;h2 id=&quot;escribir-todos-los-títulos-de-los-posts-en-una-lista&quot;&gt;Escribir todos los títulos de los posts en una lista&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Future Date&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Summary of Introduction to Systems Development&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Informe&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exclude Post from Search Index&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Video&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gemified Theme – Beta Release&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gemified Theme – Alpha Release&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Welcome to Jekyll!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: Syntax Highlighting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: Another Post with Images&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: HTML Tags and Formatting&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: Image Alignment&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: Text Alignment&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: Title with Special — Characters&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: Title &lt;em&gt;with&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markup: Text Readability Test&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wide Single Layout Page&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Sidebar with Navigation List&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Sidebar Custom&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: More Tag&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Image Overlay&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Image Overlay with Custom Tagline&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Overlay with Background Fill&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Image (Vertical)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Image and Text Readability&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Image (Horizontal)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Header Image (External URL)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Author Sidebar Disabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Author Override&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Excerpt (Generated)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Excerpt (Defined)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Code Excerpt (Generated)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Post with Sticky Table of Contents&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Post with Table of Contents&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Post with Nested Table of Contents&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Post with Nested Table of Contents via Helper&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Reading Time, Comments, Social Sharing Links, and Related Posts Disabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Social Sharing Links Enabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Social Sharing Links Disabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Related Posts Enabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Related Posts Disabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Read Time Enabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Read Time Disabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Post Date Enabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Post Date Disabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Comments Enabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Layout: Comments Disabled&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Twitter Embed&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Gallery&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Image (Caption)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Image (Linked with Caption)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Teaser Image with OpenGraph Override&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Image (Standard)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Image (with Link)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Overlay Image with OpenGraph Override&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Header Image with OpenGraph Override&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Video (YouTube)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Link&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Quote&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Notice&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Chat&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Standard&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Post: Modified Date&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Antidisestablishmentarianism&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge Case: Post with multiline excerpt&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge Case No Yaml Title&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge Case: No Body Content&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge Case: Many Categories&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge Case: Many Tags&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge Case: Nested and Mixed Lists&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Juan Perez saca la nota 5&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Marta Gomez saca la nota 4&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pedro Gonzalez saca la nota 9&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lista-aprobados&quot;&gt;Lista aprobados&lt;/h2&gt;
+&lt;p&gt;&lt;!-- poner -% es como hacer q todo esté en la misma línea entonce en la página no hya tanto interlineado en la lista--&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Juan Perez saca la nota 5 &lt;!-- poner -% es como hacer q todo esté en la misma línea entonce en la página no hya tanto interlineado en la lista--&gt; &lt;!-- poner -% es como hacer q todo esté en la misma línea entonce en la página no hya tanto interlineado en la lista--&gt;&lt;/li&gt;
+  &lt;li&gt;Pedro Gonzalez saca la nota 9&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;El título de esta página es: Informe&lt;/p&gt;
 
@@ -81,7 +1431,7 @@
 &lt;p&gt;tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu&lt;/p&gt;
 
 &lt;p&gt;The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution.
-Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post Formats" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system. El título de esta página es: Informe Esta página tiene una variable tags que es una lista con estos valores: Post Formatsreadabilitystandard Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto) Post Formats readability standard {“titulo”=&amp;gt;”The Walking Dead”, “temporada”=&amp;gt;1, “colores”=&amp;gt;{“color”=&amp;gt;[“rojo”, “verde”, “azul”], “alumnos”=&amp;gt;[“guillermo”, “jorge”, “patricia”], “texto”=&amp;gt;”Seccion de Colores”}} The Walking Dead En la temporada 1 de The Walking Dead vimos muchos colores: colorrojoverdeazul alumnosguillermojorgepatricia textoSeccion de Colores Colores antes era un array ahora es un objeto En la temporada 1 de The Walking Dead vimos muchos colores (lista inversa): {“color”=&amp;gt;[“rojo”, “verde”, “azul”], “alumnos”=&amp;gt;[“guillermo”, “jorge”, “patricia”], “texto”=&amp;gt;”Seccion de Colores”} Seccion de Colores rojo verde azul Lista de alumnos guillermo jorge patricia Otras cosas tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00-05:00</published><updated>2018-02-19T08:06:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
+Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.&lt;/p&gt;</content><author><name>Marta Molina</name></author><category term="Post Formats" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">2022-10-31 06:08:39 -0400 Escribir todos los títulos de los posts en una lista Post: Future Date Summary of Introduction to Systems Development Informe Exclude Post from Search Index Layout: Header Video Gemified Theme – Beta Release Gemified Theme – Alpha Release Welcome to Jekyll! Markup: Syntax Highlighting Markup: Another Post with Images Markup: HTML Tags and Formatting Markup: Image Alignment Markup: Text Alignment Markup: Title with Special — Characters Markup: Title with Markdown Markup: Text Readability Test Wide Single Layout Page Layout: Sidebar with Navigation List Layout: Sidebar Custom Layout: More Tag Layout: Header Image Overlay Layout: Header Image Overlay with Custom Tagline Layout: Header Overlay with Background Fill Layout: Header Image (Vertical) Layout: Header Image and Text Readability Layout: Header Image (Horizontal) Layout: Header Image (External URL) Layout: Author Sidebar Disabled Layout: Author Override Layout: Excerpt (Generated) Layout: Excerpt (Defined) Layout: Code Excerpt (Generated) Layout: Post with Sticky Table of Contents Layout: Post with Table of Contents Layout: Post with Nested Table of Contents Layout: Post with Nested Table of Contents via Helper Layout: Reading Time, Comments, Social Sharing Links, and Related Posts Disabled Layout: Social Sharing Links Enabled Layout: Social Sharing Links Disabled Layout: Related Posts Enabled Layout: Related Posts Disabled Layout: Read Time Enabled Layout: Read Time Disabled Layout: Post Date Enabled Layout: Post Date Disabled Layout: Comments Enabled Layout: Comments Disabled Post: Twitter Embed Post: Gallery Post: Image (Caption) Post: Image (Linked with Caption) Post: Teaser Image with OpenGraph Override Post: Image (Standard) Post: Image (with Link) Post: Overlay Image with OpenGraph Override Post: Header Image with OpenGraph Override Post: Video (YouTube) Post: Link Post: Quote Post: Notice Post: Chat Post: Standard Post: Modified Date Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid Antidisestablishmentarianism Edge Case: Post with multiline excerpt Edge Case No Yaml Title Edge Case: No Body Content Edge Case: Many Categories Edge Case: Many Tags Edge Case: Nested and Mixed Lists Systems development is the process of taking a set of business requirements and, through a series of structured stages, translating these into an operational IT system. Juan Perez saca la nota 5 Marta Gomez saca la nota 4 Pedro Gonzalez saca la nota 9 Lista aprobados Juan Perez saca la nota 5 Pedro Gonzalez saca la nota 9 El título de esta página es: Informe Esta página tiene una variable tags que es una lista con estos valores: Post Formatsreadabilitystandard Poner dos llaves es usar liquid que se usa para interpolar (estamos juntando yml q es lo de entre — del principio con markdown que es este texto) Post Formats readability standard {“titulo”=&amp;gt;”The Walking Dead”, “temporada”=&amp;gt;1, “colores”=&amp;gt;{“color”=&amp;gt;[“rojo”, “verde”, “azul”], “alumnos”=&amp;gt;[“guillermo”, “jorge”, “patricia”], “texto”=&amp;gt;”Seccion de Colores”}} The Walking Dead En la temporada 1 de The Walking Dead vimos muchos colores: colorrojoverdeazul alumnosguillermojorgepatricia textoSeccion de Colores Colores antes era un array ahora es un objeto En la temporada 1 de The Walking Dead vimos muchos colores (lista inversa): {“color”=&amp;gt;[“rojo”, “verde”, “azul”], “alumnos”=&amp;gt;[“guillermo”, “jorge”, “patricia”], “texto”=&amp;gt;”Seccion de Colores”} Seccion de Colores rojo verde azul Lista de alumnos guillermo jorge patricia Otras cosas tutu es una variable que contiene lo q uehay en site en la carpeta data el archivo tutu The stages vary according to the development approach being used – described more fully in Chapter 2, ‘Lifecycle types and their rationales’ – but typically would include the activities shown in Figure 1.1, including: a feasibility study, to see if the project is worthwhile ; requirements engineering to analyse the business need and specify the users’ requirements ; design of the system to meet the users’ needs ; development of the software needed to meet the requirements ; testing of the software ; implementation of the solution. Ahmed, Tahir, et al. Developing Information Systems : Practical guidance for IT professionals, edited by James Cadle, BCS Learning &amp;amp; Development Limited, 2014. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/bull-ebooks/detail.action?docID=1713962.</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00-05:00</published><updated>2018-02-19T08:06:00-05:00</updated><id>https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search</id><content type="html" xml:base="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
 
 &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
