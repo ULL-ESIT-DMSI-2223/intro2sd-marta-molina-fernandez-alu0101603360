@@ -189,6 +189,7 @@ kramdown:
 collections:
   tareas:
     output: true # para que jekyll la procese hay q poner output a true
+    permalink: /:collection/:path/
   docs:
     output: true
     permalink: /:collection/:path/
