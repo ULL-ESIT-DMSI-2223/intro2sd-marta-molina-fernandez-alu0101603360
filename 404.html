@@ -310,7 +310,7 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>Esta página no existe. <a href="https://martamolina01-zany-lamp-w4pqwr5qx5rhgx5j-4001.preview.app.github.dev/intro2sd-marta-molina-fernandez-alu0101603360/">Volver al inicio</a></p>
+        <p>Esta página no existe, puedes <a href="https://martamolina01-zany-lamp-w4pqwr5qx5rhgx5j-4001.preview.app.github.dev/intro2sd-marta-molina-fernandez-alu0101603360/">volver al inicio</a></p>
 
 <div>
 <style>
@@ -355,7 +355,7 @@ const URL = 'https://api.thedogapi.com/v1/images/search?mime_types=gif';
     // console.log(dog);   
     let img = document.createElement("img");
     let title = document.createElement("h2");
-    title.innerText = "Pero has encontrado un gif de perrito y una frase histórica :)";   
+    title.innerText = "Pero has encontrado un gif de perrito y una frase científica :)";   
     divTitle.append(title);
     img.src = dog[0].url;
     divdog.appendChild(img);   
@@ -364,7 +364,7 @@ const URL = 'https://api.thedogapi.com/v1/images/search?mime_types=gif';
     const quoteDiv = document.getElementById("quote");
     const authorDiv = document.getElementById("author");
 
-    const quoteRes = await fetch('https://api.quotable.io/random?tags=history');
+    const quoteRes = await fetch('https://api.quotable.io/random?tags=science');
     const data = await quoteRes.json();
     quoteDiv.innerHTML = `<h2>${data.content}</h2>`;
     authorDiv.innerHTML = `<h3>—${data.author}</h3>`;
