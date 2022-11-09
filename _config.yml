@@ -17,7 +17,7 @@ subtitle                 : "Blog DMSI"
 name                     : &name "Marta Molina" # &name is a YAML anchor which can be *referenced later
 description              : &description "Página web para la prácticas de DMSI en el grado de informática."
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" #"/intro2sd-marta-molina-fernandez-alu0101603360" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/intro2sd-marta-molina-fernandez-alu0101603360" # the subpath of your site, e.g. "/blog"    PONER "" PARA DESPLEGAR EN NETLIFY
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
