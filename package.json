@@ -6,7 +6,7 @@
   "scripts": {
     "start": "bundle exec jekyll s --watch --incremental --future -V -P 4444",
     "build": "bundle exec jekyll build --future -V",
-    "deploy": "npm run build && gh-pages -d _site"
+    "deploy": "npm run build && gh-pages -d _site" //&& lo que hace es que si el primer comando funciona, entonces ejecuta el segundo, gh-pages -d _site despliega lo que haya en _site. 1º crea una rama gh-pages (huérfana, significa que parte desde 0, no tiene recuerdos, está vacía, si existía la borra la recrea) en el repo actual- 2º Todos los ficheros de la carpeta especificada (_site) se añaden y commiteados a la rama gh-pages. 3º Hacen push de la rama gh-pages
   },
   "repository": {
     "type": "git",
