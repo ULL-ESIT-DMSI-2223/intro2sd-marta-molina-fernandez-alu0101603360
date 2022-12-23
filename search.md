@@ -20,8 +20,8 @@ title: Search
   </ul>
 </form>
 
-<script type="text/javascript" src="/assets/src/fetch.js"></script>
-<script type="text/javascript" src="/assets/src/search.js"></script>
+<!-- <script type="text/javascript" src="/intro2sd-marta-molina-fernandez-alu0101603360/assets/src/fetch.js"></script> -->
+<script type="text/javascript" src="/intro2sd-marta-molina-fernandez-alu0101603360/assets/src/search.js"></script>
 
 
 <script type="text/javascript">
