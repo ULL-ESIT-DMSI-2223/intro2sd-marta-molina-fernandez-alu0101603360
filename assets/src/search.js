@@ -48,14 +48,14 @@ class JekyllSearch {
   init() {
 
     const url = new URL(document.location)
-    if (url.searchParams.get("encuentra")) {
-      this.searchField.value = url.searchParams.get("encuentra")
+    if (url.searchParams.get("search")) {
+      this.searchField.value = url.searchParams.get("search")
       this.displayResults()
     }
     this.searchField.addEventListener('keyup', () => {
       this.displayResults()
-      // So that when going back in the browser we keep the encuentra
-      url.searchParams.set("encuentra", this.searchField.value)
+      // So that when going back in the browser we keep the search
+      url.searchParams.set("search", this.searchField.value)
       window.history.pushState('', '', url.href)
     })
 
