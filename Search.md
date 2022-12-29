@@ -27,7 +27,7 @@ title: Search
 <script type="text/javascript">
 
   const Search = new JekyllSearch(
-    '{{site.url}}/assets/src/Search.json',
+    '{{site.url}}/intro2sd-marta-molina-fernandez-alu0101603360/assets/src/Search.json',
     '#Search',
     '#list',
     '{{site.baseurl}}'
