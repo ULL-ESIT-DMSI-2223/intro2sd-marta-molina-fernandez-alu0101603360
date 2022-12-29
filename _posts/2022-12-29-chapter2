@@ -1,0 +1,15 @@
+---
+title: "Summary of chapter 2: Lifecycle types and their rationales"
+categories:
+  - Summaries
+tags:
+  - Summary
+  - System development
+  - Lifecycle
+  - Rationales
+---
+
+{% assign resumen = site.data.summary %}
+Resumen del capítulo {{ resumen.capitulos[2] }}: {{ resumen.titulo2 }}
+
+## Introducción al ciclo de vida de los sistemas de desarrollo
