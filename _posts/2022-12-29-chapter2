@@ -12,4 +12,9 @@ tags:
 {% assign resumen = site.data.summary %}
 Resumen del capítulo {{ resumen.capitulos[2] }}: {{ resumen.titulo2 }}
 
-## Introducción al ciclo de vida de los sistemas de desarrollo
+# Introducción al ciclo de vida de los sistemas de desarrollo
+
+El ciclo vital de un sistema de desarrollo (SDLC) es un marco de trabajo que describe un proceso para el entendimiento, planificación, construcción y despliegue de un sistema de información. El proceso puede aplicarse a hardware y a software
+
+## Las etapas principales del desarrollo de sistemas
+
