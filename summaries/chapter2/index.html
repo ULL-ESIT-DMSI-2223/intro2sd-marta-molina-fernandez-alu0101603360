@@ -1,0 +1,932 @@
+<!doctype html>
+<!--
+  Así se escriben los comentarios en HTML
+
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js"> <!-- en es de english, esta línea indica el lenguaje de la página, es un atributo html (lang), por defecto si no la pones la página está en inglés -->
+  <head> <!-- include incluye el fichero x que estará en la carpeta _includes, esta carpeta está en remoto, todo el tema de remote_theme de usar una plantilla-->
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Summary of chapter 2: Lifecycle types and their rationales - Introducción al Desarrollo de Sistemas</title>
+<meta name="description" content="Resumen del capítulo 2: Lifecycle types and their rationales">
+
+
+  <meta name="author" content="Marta Molina">
+  
+  <meta property="article:author" content="Marta Molina">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Introducción al Desarrollo de Sistemas">
+<meta property="og:title" content="Summary of chapter 2: Lifecycle types and their rationales">
+<meta property="og:url" content="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/chapter2/">
+
+
+  <meta property="og:description" content="Resumen del capítulo 2: Lifecycle types and their rationales">
+
+
+
+  <meta property="og:image" content="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/assets/images/site-logo.png">
+
+
+
+  <meta name="twitter:site" content="@mmistakes">
+  <meta name="twitter:title" content="Summary of chapter 2: Lifecycle types and their rationales">
+  <meta name="twitter:description" content="Resumen del capítulo 2: Lifecycle types and their rationales">
+  <meta name="twitter:url" content="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/chapter2/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/assets/images/site-logo.png">
+    
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2022-12-29T00:00:00-05:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/summaries/chapter2/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Marta Molina",
+      "url": "https://mmistakes.github.io/intro2sd-marta-molina-fernandez-alu0101603360/",
+      "sameAs": ["https://twitter.com/mmistakes","https://www.facebook.com/michaelrose"]
+    
+  }
+</script>
+
+
+  <meta name="google-site-verification" content="UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" />
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml" type="application/atom+xml" rel="alternate" title="Introducción al Desarrollo de Sistemas Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/intro2sd-marta-molina-fernandez-alu0101603360/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/intro2sd-marta-molina-fernandez-alu0101603360/">
+          Introducción al Desarrollo de Sistemas
+          <span class="site-subtitle">Blog DMSI</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/intro2sd-marta-molina-fernandez-alu0101603360/docs/quick-start-guide/">Introducción a Minimal Mistakes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/intro2sd-marta-molina-fernandez-alu0101603360/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/intro2sd-marta-molina-fernandez-alu0101603360/year-archive/">Sample Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/intro2sd-marta-molina-fernandez-alu0101603360/collection-archive/">Sample Collections</a>
+            </li><li class="masthead__menu-item">
+              <a href="/intro2sd-marta-molina-fernandez-alu0101603360/terms/">Terms &amp; Privacy Policy</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content"> <!-- contenido del markdown que escribiste en posts, la forma en la que se verán esas páginas -->
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/intro2sd-marta-molina-fernandez-alu0101603360/assets/images/michael-rose.jpg" alt="Marta Molina" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Marta Molina</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>A Student</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Islas Canarias</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://mademistakes.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Made Mistakes</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://instagram.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Summary of chapter 2: Lifecycle types and their rationales">
+    <meta itemprop="description" content="Resumen del capítulo 2: Lifecycle types and their rationales">
+    <meta itemprop="datePublished" content="2022-12-29T00:00:00-05:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Summary of chapter 2: Lifecycle types and their rationales
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          15 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        
+<p>Resumen del capítulo 2: Lifecycle types and their rationales</p>
+
+<h1 id="introducción-al-ciclo-de-vida-de-los-sistemas-de-desarrollo">Introducción al ciclo de vida de los sistemas de desarrollo</h1>
+
+<p>El ciclo vital de un sistema de desarrollo (SDLC) es un marco de trabajo que describe un proceso para el entendimiento, planificación, construcción y despliegue de un sistema de información. El proceso puede aplicarse a hardware y a software</p>
+
+<h2 id="las-etapas-principales-del-desarrollo-de-sistemas">Las etapas principales del desarrollo de sistemas</h2>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig21.png" alt="img" /></p>
+
+<p>No hace falta que sean etapas secuenciales como indica la figura 2.1</p>
+
+<p>Etapas:
+•	Estudio de viabilidad: para desarrollar un sistema primero necesitamos financiación y para ver si tiene potencial de éxito, es decir, para ver es rentable invertir en el mismo se hace un estudio de viabilidad. Este analiza objetivamente los recursos y costes involucrados comparándolos con el valor que se obtendría al finalizar el proyecto. Esto se conoce como “return on invesment (ROI)” y si su valor es alto, se invierte en el sistema.
+•	Ingeniería requerida: en esta etapa se busca comprender que es lo que se necesita que haga el sistema. También se decide quién tendrá acceso para almacenar y manejar el sistema según el punto del ciclo de vida en el que esté el mismo.
+•	Diseño: aquí comparamos diferentes soluciones para cumplir los requerimientos. La decisión de diseño final debe estar bien detallada para que los desarrolladores puedan implementarla correctamente.
+•	Desarrollo (programación): se crean o configuran los componentes hardware y software siguiendo el diseño decidido anteriormente.
+•	Testeo: se prueban los componentes desarrollados para comprobar su correcto funcionamiento en general y además ver que el sistema hace lo que debe hacer.
+•	Implementación: antes de usar un sistema de información debe ser probado en un entorno operacional, en un entorno real aunque protegiendo aún los otros sistemas en caso de fallo.</p>
+
+<p>Además de las etapas debemos describir los procesos y métodos y las herramientas y técnicas.</p>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig22.png" alt="img" /></p>
+
+<p>Elementos del SDLC:
+•	Contexto: antes de desarrollar un sistema debemos considerar en contexto en el que operamos y conocer así que puede afectarnos y prepararnos para ello.
+•	Ciclo vital: describe las etapas que normalmente seguiremos: planificación, diseño, construcción, testeo y entrega del sistema de información. Estos ciclos pueden ser lineales o iterativos.
+•	Proceso: acciones o pasos que si seguimos nos llevarán a un resultado concreto. Aunque el ciclo vital nos provee de etapas es importante estructurar, planear y controlar los procesos en esas etapas. Para ello usamos métodos y estándares que crean un marco de trabajo para manejar los procesos en el SDLC. Existen muchos softwares para ello, algunos mejores en un ciclo de vida lineal mientras que otros trabajan mejor con iterativos. Algunos se refieren a partes concretas del ciclo y otros incluso definen roles, técnicas y métodos de modelado. Por todo esto es importante elegir el software más apropiado para tu contexto y tu tipo de ciclo vital.
+•	Roles: es imperativo que haya personas que sean capaces de realizar las tareas requeridas. Para ello existen los roles, desde un patrocinador a un testador de soluciones según la etapa y la necesidad de trabajo en el momento.
+•	Entregables: hay documentos, modelos, diseños y componentes hardware o softwares requeridos en las distintas etapas del SDLC. Son además documentos que detalla el estado actual del proyecto y el siguiente paso a seguir, lo que próximamente necesita, cómo hacerlo y demás.
+•	Técnicas: hay muchas técnicas que se pueden adoptar en el desarrollo de un sistema. Escoger una u otra depende del equipo y las preferencias de la organización, del ciclo de vida elegido y del enfoque del mismo desarrollo.</p>
+
+<p>A lo largo de los años, se han desarrollado muchos ciclos vitales, cada uno con sus fortalezas y debilidades y por lo tanto mejores para ciertos proyectos o peores. Aun así no hay porqué seguir el plan del ciclo elegido al pie de la letra ya que no tener en cuenta el contexto y el enfoque del sistema puede hacer que el proyecto fracase.</p>
+
+<h2 id="a-lo-que-nos-referimos-por-ciclo-vital-de-sistemas-de-desarrollo">A lo que nos referimos por ciclo vital de sistemas de desarrollo</h2>
+
+<p>Aunque existen gran cantidad de ciclos vitales de sistemas de desarrollo, podemos agruparlos en cinco ciclos de vida básicos y dos enfoques.</p>
+
+<p>Primero debemos diferenciar si un ciclo de vida es lineal o evolutivo: el primero consiste en una secuencia de tareas completadas en orden. Solo se avanza a la siguiente tarea si se completa la anterior. Por otro lado, un enfoque evolutivo enfoca la solución a través de versiones progresivas, cada una más completa que la anterior.</p>
+
+<p>Existen cinco ciclos de vida básicos: en cascada, el modelo ‘V’, el incremental, el iterativo y el ciclo en espiral.</p>
+
+<p>Antes de comentarlos debemos considerar el ámbito del ciclo del sistema de desarrollo. Saber que seguir las etapas para el desarrollo no es el final, luego vienen actualizaciones, identificación de errores y su consecuente arreglo y mejoras. Durante ello el sistema requiere mantenimiento. La mayoría de SDLC solo cubren hasta el desarrollo. Este mantenimiento conlleva costes que muchas veces exceden el pago original del desarrollo. Esta es la diferencia entre el ciclo vital total del sistema y el ciclo vital del desarrollo del sistema:
+•	Ciclo vital del sistema de desarrollo: planificación, comprensión, análisis, construcción, testeo e implementación de un nuevo sistema. Normalmente mediante un proyecto limitado en tiempo y presupuesto que termina cuando el mismo resulta exitoso al incorporarlo al entorno operativo.
+•	Ciclo vital del sistema: la ayuda en curso y el mantenimiento del sistema ya implementado en el entorno operacional hasta el fin de su vida. Se suele gestionar a través del uso de un presupuesto para servicios más que financiando un nuevo proyecto.</p>
+
+<p>Los sistemas pueden durar bastante lo que implica que el coste de mantenimiento puede ser caudaloso (desde pequeñas actualizaciones hasta la necesidad de una nueva fase de desarrollo). Por ello es importante considerar estos puntos en el estudio de viabilidad y al diseñar el sistema.</p>
+
+<h2 id="comparando-enfoques-lineales-y-evolutivos">Comparando enfoques lineales y evolutivos</h2>
+
+<h3 id="enfoques-lineales">Enfoques lineales</h3>
+
+<p>Este enfoque sigue las etapas del SDLC en orden y para avanzar se debe haber completado y entendido la fase anterior.</p>
+
+<p>En sistemas complejos ello requiere de que varias personas hagan una revisión para dar el visto bueno. Esto, entre otras formalidades, implican una amplia documentación que aseguran la alta calidad del producto. Este método encaja bien con sistemas donde los requerimientos son bien conocidos y entendidos y no suelen alterarse.
+En sistemas complejos en los que el desarrollo se distribuye o existe subcontratación, este es un buen sistema ya que permite controlar los costes y el ámbito además de permitir la subdivisión del desarrollo.</p>
+
+<p>Para proyectos más pequeños el enfoque lineal es fácil de implementar. Además, con un equipo de menor tamaño se pueden acelerar los cambios de fase y la cantidad de documentación puede ser menor ya que todo el equipo es consciente de lo que están haciendo.
+•	Fortalezas:
+  o	Se divide el problema en fases, cada una con un propósito claro
+  o	Al necesitar revisión para avanzar, no hace falta una revisión posterior
+  o	Aporta estructura en sistemas completos
+  o	La documentación sobre el sistema es detallada
+  o	No retroceder ayuda a controlar costes y contexto
+  o	Es simple e intuitiva para pequeños problemas
+•	Debilidades:
+  o	Depende de que cada una de las etapas se realice correctamente ya que no se podrá cambiar después
+  o	Para problemas complejos los tiempos dedicados a cada fase pueden ser bastante largos
+  o	No admite cambios con facilidad
+  o	No se puede usar el sistema hasta que esté completo
+  o	Si se para el proyecto, no hay producto válido para vender y cubrir costes</p>
+
+<h3 id="enfoques-evolutivos">Enfoques evolutivos:</h3>
+
+<p>Este enfoque trata del entendimiento progresivo creando prototipos o lanzamientos iterativos. Para este enfoque asimismo que los requerimientos no están claros inicialmente o que se necesite un prototipo rápidamente. Es ideal para permitir al sistema evolucionar hasta encontrar la solución además de para sistemas complejos que quieran incorporarse pronto al mercado. Además, permite tomar más riesgos y en caso de que el proyecto se vuelva inviable, se puede parar con facilidad y todo lo hecho hasta el momento tiene valor.
+•	Fortalezas:
+  o	Entrega rápida al cliente al menos de la primera versión
+  o	Los requerimientos pueden cambiar rápidamente y no hay problema
+  o	Promueve la colaboración con clientes
+•	Debilidades
+  o	Las múltiples iteraciones pueden complicar la gestión del proyecto.
+  o	Sin una buena gestión, el cambio de requerimientos puede hacer que el proyecto fracase
+  o	El coste del proyecto puede aumentar considerablemente</p>
+
+<h2 id="ciclos-vitales-basados-en-enfoques-lineales">Ciclos vitales basados en enfoques lineales</h2>
+
+<h3 id="el-ciclo-de-vida-en-cascada">El ciclo de vida en cascada:</h3>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig23.png" alt="img" /></p>
+
+<p>Es uno de los primeros y el más común. Se basa en que cada etapa debe ser completada antes de avanzar a la siguiente, desde el estudio de viabilidad hasta la entrada en el entorno operativo, todo ello y la correcta documentación de cada fase llevará a un producto de calidad. En la figura las flechas discontinuas indican que si hay un error debemos retroceder y rectificarlo. Para el éxito en este SDLC necesitamos una gestión impecable y para ello debemos entender muy bien el sistema. Este ciclo vital es bastante inelástico, cualquier cambio tras haber aprobado proyecto con ciertos requerimientos puede resultar difícil y costoso.</p>
+
+<h3 id="el-modelo-en-v">El modelo en ‘V’</h3>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig24.png" alt="img" /></p>
+
+<p>Se la puede considerar una extensión del modelo en cascada para ir testeando y así poder ofrecer información certera de cómo va el proyecto. La primera mitad de la V trata de la definición del proyecto mientras que la segunda, de la verificación y validación del mismo. La base es el desarrollo que incluye ambas. Las flechas discontinuas muestran la relación entre la etapa de definición y la fase de testeo asociada. El modelo se implementa de arriba abajo, es decir que la definición y su prueba se realizan simultáneamente para así poder pasar a la siguiente etapa sin errores.</p>
+
+<p>Existe una versión extendida de este modelo (Figura 2.5) que integra en el anterior por un lado el estudio de viabilidad y los beneficios del proyecto por otro. Con esto podremos asegurarnos de que el proyecto además de exitoso aporte las ganancias buscadas al cliente. Este sistema es más popular actualmente que el modelo de cascada ya que es claramente más escalable entre otras ventajas.</p>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig25.png" alt="img" /></p>
+
+<h3 id="ciclo-de-vida-incremental">Ciclo de vida incremental</h3>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig26.png" alt="img" /></p>
+
+<p>Sigue siendo un SDLC lineal lo que implica que deberá completar las etapas secuencialmente. La diferencia con los modelos anteriores es que en este, tras decidir los requerimientos y el diseño, se puede elegir entregar algunas partes del sistema antes que otras así que en conclusión, aunque se deban especificar los aspectos principales del sistema desde el inicio, es posible añadir requerimientos durante el proceso que se integrarán paralelamente. Otra ventaja es que con este sistema el cliente puede obtener una solución funcional con bastante rapidez en la etapa de desarrollo por ello este tipo de ciclo vital es también conocido como de entrega incremental.</p>
+
+<p>Aun así, este SDLC sigue necesitando un riguroso análisis y diseño en sus etapas más tempranas y hay que tener en cuenta que cada entrega conlleva costes y más testeo que otros ciclos además de que con cada prototipo volvemos a testear lo creado en la anterior. Cierto es también que se pueden reducir costes si la empresa considera suficiente una de las entregas que no sea la considerada final.</p>
+
+<h2 id="ciclos-vitales-basados-en-el-enfoque-evolutivo">Ciclos vitales basados en el enfoque evolutivo</h2>
+
+<h3 id="el-desarrollo-iterativo">El desarrollo iterativo</h3>
+
+<p>Este tipo de ciclo vital se compone de pequeñas cajas de tiempo predeterminado para el desarrollo que avanzan secuencialmente. Se considera cada iteración como un pequeño proyecto compuesto de actividades como los requisitos, análisis, diseño, desarrollo y testeo. Son como pequeños proyectos lineales en los que en cada un van cambiando los requerimientos y producen algo de valor para el proyecto o cliente.</p>
+
+<p>A medida que los requisitos evolucionan, lo hace también la compresión del proyecto y al final de cada iteración el desarrollo conseguido se prueba.</p>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig27.png" alt="img" /></p>
+
+<p>Como podemos observar en la figura 2.7, debemos tener como mínimo tres iteraciones para obtener algo mínimamente funcional:
+•	Investigación: en la primera iteración investigamos riesgos en la tecnología y en la funcionalidad buscada por el cliente para entender los requisitos del sistema.
+•	Refinamiento: se detallan los requerimientos y el diseño y se desarrolla el sistema. Este proceso puede llevar múltiples iteraciones.
+•	Consolidación: es la iteración final para asegurar el código y el diseño desarrollados además de comprobar el funcionamiento global del sistema que se entregará.</p>
+
+<p>Las primeras iteraciones son más dedicadas al estudio y desarrollo, por ello muchas veces no producen entregas. Por ello este SDLC es también conocido como de desarrollo iterativo. Para evitar esta tardanza muchas veces mezclamos este sistema con el de entrega incremental.</p>
+
+<h3 id="ciclo-de-vida-en-espiral">Ciclo de vida en espiral</h3>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig28.png" alt="img" /></p>
+
+<p>Este modelo combina el desarrollo iterativo con la evolución del prototipo testeado y sus requisitos para prever los riesgos y eliminarlos eficientemente. Este sistema, al ser evolutivo, no requiere que los requisitos estén especificados claramente al inicio, se empieza con un concepto y se repiten las cuatro etapas principales del desarrollo hasta obtener un producto funcional.</p>
+
+<p>Los cuadrantes de la espiral son la determinación de objetivos, la identificación y resolución de riesgos, el desarrollo y testeo y finalmente el planeo de la siguiente iteración.</p>
+
+<h2 id="el-impacto-de-agile">El impacto de Agile</h2>
+
+<p>Agile es un término dado para el enfoque de desarrollo evolutivo siguiendo el ‘Agile Manifiesto’. Determina una nueva forma de pensar sobre el desarrollo de software.</p>
+
+<p><img src="https://github.com/ULL-ESIT-DMSI-2223/intro2sd-marta-molina-fernandez-alu0101603360/blob/main/img/Fig29.png" alt="img" /></p>
+
+<p>Es un sistema sencillo y ligero que se vuelve complicado en equipos de gran tamaño, sistemas y proyectos complejos entre otros factores. Por ello muchas veces se combina Agile con otros enfoques ya que, aun existiendo estos problemas, trae considerables beneficios usarlo.</p>
+
+<h2 id="enfoques-de-desarrollo-y-métodos">Enfoques de desarrollo y métodos</h2>
+
+<p>Ciclos vitales más populares y un poco de su historia</p>
+
+<h3 id="ssadm">SSADM</h3>
+
+<p>El Structured Systems Analysis and Design Method (SSADM) es un enfoque lineal en cascada, focalizado en el análisis u diseño de sistemas de información. Dadas sus etapas provee de un mayor entendimiento del enfoque de negocios y sus procesos aunque le cuesta lidiar con el ambiente cambiante del mismo. El modelado es clave para SSADM, los tres modelos más importantes:
+•	Modelo lógico: modela los requisitos de los datos y las reglas de la empresa
+•	Modelo de flujo de datos: cómo se mueven los datos en el sistema de información
+•	Modelo de eventos de la entidad: modela el comportamiento de la entidad o de los datos y los eventos que puedan  producir cambios en el mismo</p>
+
+<h3 id="dsdm">DSDM</h3>
+
+<p>El Dynamic Systems Development Method (DSDM) es un enfoque iterativo evolutivo e incremental para desarrollar aplicaciones rápidamente. Tiene tres fases principales: pre-proyecto, fase del ciclo vital del proyecto y post-proyecto. También define ocho principios básicos para su marco de trabajo.</p>
+
+<p>DSDM es un proceso flexible y configurable, no necesita de requisitos claros dejando decidir al equipo. Es una buena opción para proyectos con un fuerte enfoque en negocios, donde la implementación de los métodos es menos importante.</p>
+
+<h3 id="scrum">Scrum</h3>
+
+<p>Es uno de los más conocidos enfoques de Agile. Es un enfoque iterativo evolutivo de procesos incrementales. Introduce lenguaje y conceptos únicos que guiarán su forma de trabajar: el planeo y la monitorización por un pequeño equipo multidisciplinar de ingenieros del software. Scrum propone tres roles:
+•	El propietario del producto: representa a la empresa y a la voz del cliente
+•	El equipo de desarrollo: multifuncional, del 5 a 9 personas que hacer el trabajo de software
+•	El jefe de Scrum: persona encargada de eliminar los impedimentos para que el equipo de desarrollo pueda hacer su trabajo</p>
+
+<p>A las iteraciones se las llama Sprints y serán generalmente de corta duración y centradas en ofrecer un prototipo del producto. Serán monitorizadas por el Scrum. Este sistema funciona realmente bien para equipos de 5 a 9 desarrolladores entre los que se cumplan lo requisitos de recursos humanos para el proyecto, en caso de no tener las habilidades necesarias pueden surgir problemas. Scrum puede ser escalado, pero con precaución.</p>
+
+<h3 id="proceso-unificado-de-ratios-1998">Proceso unificado de ratios 1998</h3>
+
+<p>El RUP es un proceso de ingeniería del software. Está orientado al riesgo, es iterativo evolutivo e incremental en procesos basado en el modelo en espiral. También procesa marcos de trabajo para adecuarlos a las necesidades de la organización. Se basa en cuatro etapas: inicio, elaboración, construcción y transición además de en seis flujos de trabajo de ingeniería: modelado de negocio, requisitos, análisis y diseño, implementación, testeo y despliegue. Se puede usar RUP para desarrollar sistemas complejos.</p>
+
+<h3 id="lean-software-development">Lean software development</h3>
+
+<p>El LSD trata de un conjunto de técnicas y herramientas que se pueden usar para eliminar residuos y mejorar la productividad. Aplicado al desarrollo del software vemos que sigue una serie de principios entre los que encontramos el enfoque en los clientes, la eliminación de residuos, el aprendizaje y la entrega rápida y la optimización entre otros. Al enfocarse en el desecho de residuos no da muchos detalles sobre las fases a seguir por lo que lo óptimo es combinar este enfoque con otros como, por ejemplo, el Scrum.</p>
+
+<h2 id="cómo-elegir-un-enfoque">Cómo elegir un enfoque</h2>
+
+<p>Depende de los factores considerados:
+•	Complejidad del problema: para problemas simples usamos métodos simples como el modelo de cascada, para complejos podemos usar el RUP, el modelo en ‘V’ o el de espiral.
+•	La experiencia del equipo: para problemas complejos es mejor elegir un enfoque en el que el equipo se encuentre cómodo. Para uno simple se puede experimentar con nuevos métodos.
+•	La estabilidad de los requisitos: para casos en que los requisitos cambien con rapidez debemos usar un enfoque iterativo con iteraciones cortas como el Scrum. Si hay menos cambios podemos usar cualquier otro sistema evolutivo o iterativo.
+•	Rapidez de la entrega y calidad: se puede usar un enfoque lineal si el cliente quiere que el sistema esté completo antes de la entrega aún así es mejor usar un enfoque evolutivo, por ejemplo uno como el Scrum donde el cliente esté involucrado.
+•	Involucración del clientes: si el nivel es bajo, funcionará un enfoque lineal. Uno evolutivo requiere que el cliente se involucre.
+•	Exclusividad: si el proyecto nunca se ha hecho debemos usar un enfoque evolutivo para detectar riesgos y rectificar o solucionar con rapidez.
+•	Requisitos regulatorios: normalmente cualquier enfoque vale pero para requisitos regulatorios, legales, de auditoría o de seguridad es mejor usar un modelo que incluya documentación y continuas verificaciones como el de cascada, el de ‘V’ o el DSDM.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/intro2sd-marta-molina-fernandez-alu0101603360/tags/#lifecycle" class="page__taxonomy-item" rel="tag">Lifecycle</a><span class="sep">, </span>
+    
+      <a href="/intro2sd-marta-molina-fernandez-alu0101603360/tags/#rationales" class="page__taxonomy-item" rel="tag">Rationales</a><span class="sep">, </span>
+    
+      <a href="/intro2sd-marta-molina-fernandez-alu0101603360/tags/#summary" class="page__taxonomy-item" rel="tag">Summary</a><span class="sep">, </span>
+    
+      <a href="/intro2sd-marta-molina-fernandez-alu0101603360/tags/#system-development" class="page__taxonomy-item" rel="tag">System development</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/intro2sd-marta-molina-fernandez-alu0101603360/categories/#summaries" class="page__taxonomy-item" rel="tag">Summaries</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-12-29T00:00:00-05:00">December 29, 2022</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?via=mmistakes&text=Summary+of+chapter+2%3A+Lifecycle+types+and+their+rationales%20https%3A%2F%2Fmmistakes.github.io%2Fintro2sd-marta-molina-fernandez-alu0101603360%2Fsummaries%2Fchapter2%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmmistakes.github.io%2Fintro2sd-marta-molina-fernandez-alu0101603360%2Fsummaries%2Fchapter2%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmmistakes.github.io%2Fintro2sd-marta-molina-fernandez-alu0101603360%2Fsummaries%2Fchapter2%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/" class="pagination--pager" title="Summary of Introduction to Systems Development
+">Previous</a>
+    
+    
+      <a href="/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/" class="pagination--pager" title="Post: Future Date
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <div align="center" style="margin: 1em 0;">
+        <ins class="adsbygoogle"
+              style="display:block; border-bottom: initial;"
+              data-ad-client="ca-pub-7328585512091257"
+              data-ad-slot="3049671934"
+              data-ad-format="auto"
+              data-full-width-responsive="true"></ins>
+      </div>
+      <h2 class="page__related-title">You May Also Enjoy</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/intro2sd-marta-molina-fernandez-alu0101603360/post/post-future-date/" rel="permalink">Post: Future Date
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/intro2sd-marta-molina-fernandez-alu0101603360/summaries/intro2sd/" rel="permalink">Summary of Introduction to Systems Development
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+Resumen del capítulo 1 de Introduction to Systems Development
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/intro2sd-marta-molina-fernandez-alu0101603360/post%20formats/informe/" rel="permalink">Informe
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          33 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+
+2023-01-08 11:41:26 -0500 
+
+Informe
+
+Despliege del sitio Web en Github pages usando Jekyll:
+
+
+
+El resumen del capítulo 1 del libro Introduction to Systems ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/intro2sd-marta-molina-fernandez-alu0101603360/jekyll/post-exclude-search/" rel="permalink">Exclude Post from Search Index
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This post should not appear in the search index because it has the following YAML Front Matter:
+
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+      <div align="center" style="margin: 1em 0;">
+        <ins class="adsbygoogle"
+             style="display:block; border-bottom: initial;"
+             data-ad-client="ca-pub-7328585512091257"
+             data-ad-slot="3049671934"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+      </div>
+    </div>
+
+     <!-- este if dice q si en config pusieste search = true entonces te sale un formulario de búsqueda y eso, básicamente q puedes buscar -->
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div class="page__footer"> <!-- El pie de página tipo redes sociales y eso -->
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://instagram.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        
+      
+    
+
+    
+      <li><a href="/intro2sd-marta-molina-fernandez-alu0101603360/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 Marta Molina. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/intro2sd-marta-molina-fernandez-alu0101603360/assets/js/main.min.js"></script>
+
+
+<!-- Including InstantSearch.js library and styling -->
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
+
+<script>
+// Instanciating InstantSearch.js with Algolia credentials
+const search = instantsearch({
+  appId: 'QB6HVGBSBA',
+  apiKey: '9d5014e5bbc77372547bce778dfa5663',
+  indexName: 'minimal_mistakes',
+  searchParameters: {
+    restrictSearchableAttributes: [
+      'title',
+      'content'
+    ]
+  }
+});
+
+const hitTemplate = function(hit) {
+  const url = hit.url;
+  const title = hit._highlightResult.title.value;
+  const content = hit._highlightResult.html.value;
+
+  return `
+    <div class="list__item">
+      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <h2 class="archive__item-title" itemprop="headline"><a href="/intro2sd-marta-molina-fernandez-alu0101603360${url}">${title}</a></h2>
+        <div class="archive__item-excerpt" itemprop="description">${content}</div>
+      </article>
+    </div>
+  `;
+}
+
+// Adding searchbar and results widgets
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '.search-searchbar',
+    poweredBy: true,
+    placeholder: 'Enter your search term...'
+  })
+);
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '.search-hits',
+    templates: {
+      item: hitTemplate,
+      empty: 'No results',
+    }
+  })
+);
+
+// Starting the search only when toggle is clicked
+$(document).ready(function () {
+  $(".search__toggle").on("click", function() {
+    if(!search.started) {
+      search.start();
+    }
+  });
+});
+</script>
+
+
+
+
+
+
+
+
+
+    <style>
+      .google-auto-placed {
+        margin: 2em auto;
+      }
+    </style>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+  </body>
+</html>
